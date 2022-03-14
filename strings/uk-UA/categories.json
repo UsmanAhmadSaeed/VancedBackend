@@ -1,0 +1,20 @@
+{
+  "categories": [
+    {
+      "category": "Звіт про помилки",
+      "json": "bugreport.json"
+    },
+    {
+      "category": "FAQ",
+      "json": "faq.json"
+    },
+    {
+      "category": "Можливості",
+      "json": "features.json"
+    },
+    {
+      "category": "Вирішення проблем",
+      "json": "troubleshooting.json"
+    }
+  ]
+}

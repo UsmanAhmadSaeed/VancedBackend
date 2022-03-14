@@ -1,0 +1,120 @@
+{
+  "data": [
+    {
+      "title": "YouTube Vanced とは？",
+      "description": "YouTube Vanced はあなたの YouTube 体験をより豊かにする便利な機能を備えた改造版の YouTube アプリです。\n\n例えばこのような機能が含まれています:\n- バックグラウンド再生\n- ピクチャー イン ピクチャー（PiP）\n- ダークテーマ（有機 EL 向け）\n- 広告ブロック（デフォルトではオフ）\n- 最高画質の上書き（デバイスの画面以上の画質で動画を再生）\n- ...などなど！\n\n詳細についてはこちら\n<https://vancedapp.com>"
+    },
+    {
+      "title": "どこからダウンロードできますか？",
+      "description": "当然ながら、Google のアプリの改造版を Google Play ストアに公開することは認められません。Play ストアにある Vanced アプリは偽物ですのでご利用はお控えください。\n\nVanced アプリのダウンロードとインストールは公式ホームページ <https://vancedapp.com> で公開されている Vanced Manager から行ってください。Vanced Manager は [GitHub repo](https://github.com/YTVanced/VancedManager/releases/latest) からもダウンロードできます。"
+    },
+    {
+      "title": "YouTube Vanced は自動更新されますか？",
+      "description": "いいえ。\n\nVanced Manager は新しいバージョンが公開され次第、通知を送信します。\n\nまた、[Discord サーバー](https://discord.gg/wYrRPgv) に参加するか、[Telegram チャンネル](https://t.me/Vanced) をフォローすることで最新のニュースを受け取ることもできます。"
+    },
+    {
+      "title": "Vanced は動画をダウンロードできますか？",
+      "description": "Vanced には動画をダウンロードする機能はなく、これからも絶対に実装しません。\n\n[いくつかの国](https://support.google.com/youtube/answer/6141269)ではほとんどの動画を無料でダウンロードできますが、その他の国では YouTube Premium が必要です。\n\nもう一度繰り返しますが、Vanced は絶対にダウンロード機能や類似の機能を実装しません。\n\nGoogle は著作権保護されたコンテンツをダウンロードされることに対して厳格であるため、ダウンロード機能を実装したことでいくつもの改造版 YouTube アプリが閉鎖されてきました。Vanced がダウンロード機能を実装することはありませんのでリクエストしないでください。"
+    },
+    {
+      "title": "スワイプジェスチャーが動作しないのはなぜですか？",
+      "description": "Vanced 設定 > レイアウト設定で、コメントの場所を下部（古い場所）に設定している場合、スワイプジェスチャーは動作しません。上部（新しい場所）に設定してアプリを再起動してください。それでもスワイプジェスチャーが動作しない場合は、アプリを強制終了し、データを消去してください。"
+    },
+    {
+      "title": "字幕を利用できませんか？",
+      "description": "Vanced や YouTube の問題ではありません。すべての動画に字幕があるわけではありません。"
+    },
+    {
+      "title": "寄付を受け付けていますか？",
+      "description": "寄付は受け付けていません！\n\n状況や寄付の種類に関わらず、寄付を求めるサイトやリンク、投稿はすべて偽物です。.\n\nVanced 開発者をサポートしたい場合はリンクから [Brave ブラウザ](https://brave.com/kev231)または[AdGuard](https://adguard.com/en/welcome.html?aid=31141)をダウンロードしてください。"
+    },
+    {
+      "title": "プレイヤーのレイアウトを自動的に非表示にする方法は？",
+      "description": "設定 > ユーザー補助から設定できます。設定を開けないまたは設定できない場合は、デバイスのユーザー補助設定で Sound Amplifier、Voice Access、Live Caption を無効にしてください。"
+    },
+    {
+      "title": "なぜ分割 APK を使用するのですか？",
+      "description": "大きく3つの理由があります:\n\n1. 通常版のアプリが分割 APK を使用しているため\n2. 必要な言語のみインストールするのでストレージの使用量を削減できるため\n3. デバイスが必要とする core APK は 1 種類であるため\n\nもちろん、通常の APK に変換することも技術的には可能ですが Vanced 開発者は行わないことにしています。今あるものをご活用ください。\n\nVanced Manager が手間のかかる作業をすべて行い、あなたは`Install`ボタンを押すだけでアプリをご利用いただけます。"
+    },
+    {
+      "title": "スタートアップ画面とテーマが一致しないのはなぜですか? ",
+      "description": "起動画面の背景色はシステムのテーマによって決定される Android フレームワークの色が反映されています。[Substratum](https://play.google.com/store/apps/details?id=projekt.substratum) や [Swift Installer](https://play.google.com/store/apps/details?id=com.brit.swiftinstaller) などのアプリを利用して変更することができます。"
+    },
+    {
+      "title": "インストールファイルを再ダウンロードする必要がありますか？",
+      "description": "さまざまな理由でファイルが破損する可能性があり、その後問題が発生する場合があります。この問題を回避しスムーズなインストールを行うため、再ダウンロードを選択できます。"
+    },
+    {
+      "title": "root 版にマイクの権限がないのはなぜですか？",
+      "description": "Vanced の最新バージョンでは必要です。"
+    },
+    {
+      "title": "ExoPlayer v1 とは？",
+      "description": "これは、YouTube で使用されているメディアプレーヤーの古いバージョンです。使用するとパフォーマンスと安定性が向上する可能性があります。"
+    },
+    {
+      "title": "隠し設定を有効にするには？",
+      "description": "Vanced 設定で、6~7回「Vanced について」セクションをタップすることで有効になります。これにより、追加のコーデック設定が有効になります。"
+    },
+    {
+      "title": "YouTube Vanced をデフォルトのアプリに設定する方法は？",
+      "description": "ブラウザやメッセージアプリなどから YouTube のリンクを開くときに使用するデフォルトのアプリに Vanced を設定する方法です。これは特によくある質問です。\n \nroot 版では、YouTube Vanced は公式アプリを置き換えているためすでにデフォルトに設定されています。 \n\nnon-root 版では、OneUI や MIUI などがあり解決方法が異なるためここですべてに共通の解決方法を示すことはできません。ご使用の OS にあった設定方法をウェブ検索してください。",
+      "fields": [
+        {
+          "title": "OneUI ユーザー:",
+          "content": "1. YouTube Vanced アプリのアイコンを長押しする。\n2. 「アプリ情報」をタップする。\n3. 「標準アプリとして設定」を探し、タップする。\n4. 「対応リンクを開く」をタップし「このアプリで開く」を選択する。\n\nOneUI の古いバージョンでは 4 番目のオプションの名前が異なる場合があります。その場合は「対応する URL に移動」をタップし「このアプリで起動」を選択してください。\nさらに古いバージョンの OneUI では、「設定」>「アプリ」> [右上の 3 点ドット] >「デフォルトのアプリ」>「標準アプリに設定」からアクセスする必要があります。アプリ一覧が読み込まれた後、YouTube Vanced を探し上記の 4 ステップに従ってください。"
+        },
+        {
+          "title": "MIUI ユーザー:",
+          "content": "1. 設定アプリを開く。\n2. 「アプリ」セクションまでスクロールする。\n3. 「アプリを管理」をタップする。\n4. 右上の 3 点ドットをタップする。\n5. 「デフォルトのアプリ」を選択する。\n6. 「リンクを開く」をタップする。\n7. アプリ一覧が表示されるまで待つ…\n8. YouTube Vanced を探し、タップする。\n9. 「対応リンクを開く」をタップし、「このアプリで開く」を選択する。"
+        },
+        {
+          "title": "AOSP およびその他のカスタム UI ユーザー（OOS、ColorOS、EMUI など）:",
+          "content": "1. 設定アプリを開く。\n2. 「アプリと通知」をタップする。\n3. 「詳細設定」を開く。\n4. 「デフォルトのアプリ」をタップする。\n5. 「リンクを開く」をタップする。\n6.「YouTube Vanced」を探し、タップする。\n7. 「対応リンクを開く」をタップし「このアプリで開く」を選択する。\n\nお困りの場合は、[Google](https://www.google.com/search?q=%22android%22+how+to+open+youtube+links+with+youtube) で方法を検索するか、[Play ストア](https://play.google.com/store/search?q=open%20with)からサードパーティのアプリをダウンロードすることをおすすめします。"
+        }
+      ]
+    },
+    {
+      "title": "root 版で MicroG Core が動作しないのはなぜですか？",
+      "description": "1. Vanced を使用するには、GApps [pico](https://github.com/opengapps/opengapps/wiki/Pico-Package) 以上が必要です。\n\n2. GApps パッケージで利用可能な Google Play サービスフレームワークがない場合には、Vanced で microG Core を利用できません。また、ライブラリーが必要です。\n\n3. プライバシーに関する懸念があり GApps を使わずに YouTube をご覧になりたい場合は、[ウェブ版](https://youtube.com)をご利用ください。"
+    },
+    {
+      "title": "なぜ Cast が動作しないのですか？",
+      "description": "v16.16.38 以上にアップデートすると、non-root 版ユーザーと MicroG ベースの ROM で使用している root 版のユーザーは、MicroG のバグの影響を受けます。それが解決されるまで、アップデートをお待ちいただくか、v15 にロールバックしてください。root 版 で Google Play 開発者サービスを使用している場合、Cast に問題はありません。"
+    },
+    {
+      "title": "APK 署名とは何ですか？",
+      "description": "この質問は Vanced Manager をご利用でないか、非公式ソースから Vanced をダウンロードしているときに発生します。Vanced Manager をお使いください！\n\nVanced Manager は以下のリンクから安全にダウンロードできます:\n- [公式サイト](https://vancedapp.com)\n- [GitHub リポジトリ](https://github.com/YTVanced/VancedManager/releases/latest)"
+    },
+    {
+      "title": "YouTube Vanced は Play ストアからダウンロードできますか？",
+      "description": "いいえ！\nPlay ストアで「YouTube Vanced」と検索したり、Vanced を名乗るアプリや類似のアプリをインストールするのはお控えください。\n\nPlay ストアに公開されている公式アプリは [Vanced Guide](https://play.google.com/store/apps/details?id=com.vanced.faq) のみです。\n\nもしアイコンを盗用した偽アプリを発見した場合は、なりすましとして報告し低評価をつけてください。\n\n公式アプリは[公式サイト](https://vancedapp.com)からのみリリースされます。"
+    },
+    {
+      "title": "なぜホーム画面やアプリのドロワーに Vanced が表示されないのですか？",
+      "description": "この質問は Vanced Manager をご利用でないか、非公式ソースから Vanced をダウンロードしているときに発生します。Vanced Manager をお使いください！\n\nVanced Manager は以下のリンクから安全にダウンロードできます:\n- 公式サイト <https://vancedapp.com>\n- [GitHub リポジトリ](https://github.com/YTVanced/VancedManager/releases/latest)"
+    },
+    {
+      "title": "なぜビデオが再生できないのですか？",
+      "description": "アプリを再起動してみてください。回復しない場合は、インターネット接続やデバイスの問題である可能性があります。"
+    },
+    {
+      "title": "なぜ 480p に制限されているのですか？",
+      "description": "COVID-19 の影響により、Google はいくつかの国でデータ使用を制限しています。これはサーバー上の制限のため、Vanced ユーザーと公式版 YouTube ユーザーの両方に影響を与えます。",
+      "fields": [
+        {
+          "title": "不具合の回避方法:",
+          "content": "1. 異なる地域に VPN を接続する\n2. [ウェブ版](https://youtube.com)を使う\n3. 480p の制限は携帯電話のみに適用され、タブレットには適用されないため、YouTube Vanced でデバイスのモデル名を変更して、制限を回避することができます。\n\n#### デバイスのモデル名を変更する方法\n1. YouTube Vanced を開く\n2. 設定を開く\n3. 「Vanced 設定」を開く\n4. 以下の手順で隠し設定を有効にする:\n  - 1 番下までスクロールし「Vanced について」のセクションを「隠し設定が有効になりました」というメッセージがタップされるまで繰り返しタップします。\n5. 「コーデックの上書き」セクションを開く\n6. メーカーを「Samsung」、モデルを「SM-T865」に設定する\n7. アプリを再起動する\n\n再起動後は、480p 制限が解除されています。"
+        }
+      ]
+    },
+    {
+      "title": "どうやって microG の通知を非表示にしますか？",
+      "description": "microG の通知を隠す方法\n1. バッテリー最適化を無効にしてデバイスを再起動してください。\n\n2. 再起動後も通知が表示されている場合には、microG の通知を長押ししてバッテリー最適化を無効にしてください。\n\n> Android の システム UI 上から通知を非表示にすることもできます。Android で通知を無効にする方法は Google のヘルプをご覧ください。"
+    },
+    {
+      "title": "1080p の画面で 1440p に設定する意味がありますか？",
+      "description": "18 : 9 や 21 : 9 比率の動画である場合は有効です。設定 > 全般で「統計情報」を有効にして確認できます。\n\nより高い解像度を有効にするには、Vanced 設定 > 動画設定 に移動し、「最高画質」をオンにしてアプリを再起動します。"
+    }
+  ]
+}

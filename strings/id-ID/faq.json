@@ -1,0 +1,120 @@
+{
+  "data": [
+    {
+      "title": "Apa itu YouTube Vanced?",
+      "description": "YouTube Vanced adalah versi YouTube yang di modifikasi dengan fitur agar pengalaman Youtube Anda menjadi lebih baik!\n\nFitur seperti:\n- Pemutaran latar belakang,\n- Picture in Picture (PiP),\n- Tema hitam (OLED friendly),\n- Penghapusan iklan (membutuhkan pengaktifkan),\n- Menimpa maksimal resolusi (mengizinkan pemutaran video yang resolusinya lebih tinggi dari layar anda),\n-...dan banyak lagi!\n\nUntuk informasi lebih lanjut, kunjungi <https://vancedapp.com>"
+    },
+    {
+      "title": "Dimanakah letak tombol Download?",
+      "description": "Tentu saja, Google tidak akan membolehkan versi modifikasi yang merupakan aplikasinya sendiri untuk berada pada toko mereka, untuk itu jangan mencari Vanced di Google Play Store, semua itu merupakan aplikasi palsu.\n\nAplikasi Vanced bisa diunduh dan dipasang menggunakan Vanced Manager yang dimana dapat ditemukan pada situs resmi kami: <https://vancedapp.com> tetapi Anda juga dapat mengambilnya dari [Github repo](https://github.com/YTVanced/VancedManager/releases/latest)."
+    },
+    {
+      "title": "Apakah YouTube Vanced dapat memperbarui secara otomatis?",
+      "description": "Tidak, tidak bisa.\n\nVanced Manager akan mengirimkan Anda notifikasi ketika tersedia pembaruan.\n\nAnda juga dapat bergabung [Server Discord] kami(https://discord.gg/wYrRPgv) atau ikuti [channel Telegram](https://t.me/Vanced) untuk berita terbaru dan pemberitahuan pembaruan."
+    },
+    {
+      "title": "Dapatkah Vanced mengunduh video?",
+      "description": "Vanced tidak memiliki fitur pengunduhan video apapun dan tidak akan pernah.\n\nKebanyakan video tersedia untuk diunduh secara gratis pada [negara terpilih] (https://support.google.com/youtube/answer/6141269). Untuk selainnya, mohon gunakan YouTube Premium atau gunakan pengunduh pihak ketiga.\n\nSekali lagi, Vanced TIDAK AKAN menambahkan pengunduh video pada aplikasi atau serupa.\n\nHal ini merupakan alasan banyak modifikasi YouTube yang ditutup paksa di masa lalu dikarenakan Google tidak menyukai orang mengunduh konten hak cipta dari platform mereka maka jangan tanyakan hal ini!!!"
+    },
+    {
+      "title": "Mengapa swipe gesture tidak dapat bekerja?",
+      "description": "Apabila Anda memiliki komentar yang ditampilkan di bawah (tempat lama) di pengaturan Vanced > Pengaturan Tampilan, nonaktifkan hal tersebut dan mulai ulang aplikasinya. Apabila tetap tidak bekerja, paksa berhenti aplikasi dan hapus datanya."
+    },
+    {
+      "title": "Subtitle tidak tersedia?",
+      "description": "Hal ini bukan masalah yang berkaitan dengan Vanced ataupun YouTube. Tidak semua video memiliki subtitle."
+    },
+    {
+      "title": "Apakah Anda menerima donasi?",
+      "description": "Kami TIDAK menerima donasi! \n\nBentuk donasi apapun dalam keadaan apapun dan situs, link, atau postingan apapun yang meminta donasi merupakan palsu.\n\nTetapi apabila Anda ingin mendukung developer Vanced, anda dapat mengunduh Brave menggunakan [tautan ini](https://brave.com/kev231) dan AdGuard menggunakan [tautan ini](https://adguard.com/en/welcome.html?aid=31141)."
+    },
+    {
+      "title": "Bagaimana cara membuat tampilan pemutar otomatis disembunyikan?",
+      "description": "Anda dapat mengatur hal tersebut di Pengaturan YouTube Vanced > Aksesibilitas. Apabila pengaturan gagal untuk terbuka atau tidak bekerja, pergi ke pengaturan aksesibilitas perangkat anda dan nonaktifkan sound amplifier, switch access, live caption."
+    },
+    {
+      "title": "Mengapa menggunakan split APKs?",
+      "description": "Dikarenakan:\n\n1. Aplikasi bawaan menggunakan hal yang sama sehingga Vanced menggunakannya juga.\n2. Hanya memasang bahasa yang anda tentukan untuk mengurangi konsumsi penyimpanan.\n3. Memiliki satu-satunya versi core APK yang perangkat anda butuhkan.\n\nTentu saja, Vanced Manager atau para developer bisa mengkonversi split APK ke satu file APK biasa, akan tetapi kami sangat malas melakukannya. Anda hanya perlu untuk beradaptasi dengan apa yang kami miliki...\n\nTetapi jangan khawatir, Vanced Manager melakukan semuanya untuk anda sehingga anda hanya butuh menekan tombol `Pasang`."
+    },
+    {
+      "title": "Mengapa warna yang ada pada layar startup tidak sama dengan tema? ",
+      "description": "Warna latar belakang layar splash sekarang diambil dari warna Android framework untuk memastikan hal itu berubah sesuai dengan tema sistem. Anda dapat menggunakan tema Substratum/Swift untuk mengubah warnanya."
+    },
+    {
+      "title": "Apakah saya harus mengunduh ulang file pemasangan?",
+      "description": "File dapat rusak dikarenakan beberapa alasan dan dapat menyebabkan masalah. Untuk mencegah hal ini, Anda bisa memilih untuk mengunduh kembali agar pemasangan anda berjalan lancar."
+    },
+    {
+      "title": "Mengapa versi root tidak memiliki izin Mikropon? ",
+      "description": "Vanced mempunyai izin mikropon apabila Vanced Anda merupakan versi terbaru."
+    },
+    {
+      "title": "Apa itu ExoPlayer v1?",
+      "description": "ExoPlayer v1 merupakan versi lama pemutar media yang digunakan oleh YouTube. Anda mungkin mendapatkan performa dan stabilitas yang lebih baik ketika menggunakannya."
+    },
+    {
+      "title": "Bagaimana cara mengaktifkan pengaturan tersembunyi?",
+      "description": "Pada pengaturan Vanced, tekan pada bagian `Tentang` 6-7 kali untuk mengaktifkannya. Pengaturan ini hanya mengaktifkan pengaturan tambahan kodek video."
+    },
+    {
+      "title": "Bagaimana cara untuk membuat YouTube Vanced menjadi aplikasi default?",
+      "description": "Seperti yang terbaca di judul, banyak pengguna yang sudah seringkali menanyakan bagaimana cara mereka untuk membuat YouTube Vanced menjadi aplikasi default untuk membuka tautan YouTube dari aplikasi lain(seperti browser, aplikasi pesan dan aplikasi lain)\n\nUntuk root, Anda tidak perlu khawatir tentang masalah ini karena sudah diatur menjadi default sejak YouTube resmi terganti oleh YouTube Vanced.\n\nUntuk non-root, solusinya berbeda antara OneUI, MIUI, dan seterusnya. Kami tidak bisa memberikan semua solusi untuk setiap OS yang tersedia, dan Anda mungkin perlu mencari sendiri di Google.",
+      "fields": [
+        {
+          "title": "Pengguna OneUI:",
+          "content": "1. Tekan dan tahan pada ikon aplikasi YouTube ataupun YouTube Vanced\n2. Tekan pada ***Info Aplikasi***\n3. Cari dan tekan ***Atur sebagai default***\n4. Tekan ***Buka link yang didukung*** dan pilih ***Buka di aplikasi ini***\n\nUntuk versi OneUI yang lawas, nama yang terdapat pada langkah ke-4 mungkin sedikit berbeda. Anda mungkin perlu untuk menekan \"**Buka URL yang didukung**\" dan pilih opsi \"**Di aplikasi ini**\".\nUntuk versi OneUI yang lebih lawas lagi 💩, anda mungkin perlu untuk pergi ke **Pengaturan** > **Aplikasi** > *[tekan tiga titik yang ada pada pojok kanan]* > **Aplikasi default** > **Atur sebagai default**. Setelah aplikasi muncul, cari YouTube Vanced atau YouTube dan ikuti langkah ke-4..."
+        },
+        {
+          "title": "Pengguna MIUI:",
+          "content": "1. Buka Pengaturan\n2. Pergi ke **Aplikasi**,\n3. **Kelola aplikasi**,\n4. Lalu, tekan tiga titik yang berada pada pojok kanan,\n5. **Aplikasi default**,\n6. **Membuka link**.\n7. Tunggu sampai semua aplikasi muncul…\n8. Cari YouTube atau YouTube Vanced dan tekan.\n9. Tekan \"**Buka link yang didukung**\" dan pilih \"**Buka**\""
+        },
+        {
+          "title": "AOSP dan UI custom lainnya (OOS, ColorOS, EMUI, etc.):",
+          "content": "1. Buka **Pengaturan**\n2. Pergi ke **Aplikasi**\n3. Tekan **Aplikasi default**\n4. Cari **YouTube** atau **YouTube Vanced**\n5. Tekan \"**Buka URL yang didukung**\" dan pilih opsi \"**Di aplikasi ini**\"\n\nApabila Anda masih memiliki dengan ini, Anda mungkin harus mencari beberapa artikel/video \"cara untuk di [Google](https://www.google.com/search?q=bagaimana+cara+untuk+membuka+link+youtube) atau anda dapat memasang aplikasi pihak ketiga dari [Play Store](https://play.google.com/store/search?q=open%20with) untuk memudahkan Anda…"
+        }
+      ]
+    },
+    {
+      "title": "Mengapa varian root tidak bekerja dengan microG core? ",
+      "description": "1. Anda membutuhkan setidaknya varian GApps [pico](https://github.com/opengapps/opengapps/wiki/Pico-Package) untuk menjalankan Vanced.\n\n2. Anda tidak bisa menjalankan Vanced dengan microG core dikarenakan Vanced membutuhkan Google Play Services Framework yang dimana tersedia di semua paket GApps.\n\n3. Apabila Anda khawatir dengan privasi Anda & dan tidak ingin menggunakan GApps tetapi masih ingin menonton YouTube tanpa iklan, maka [versi web](https://youtube.com) selalu tersedia."
+    },
+    {
+      "title": "Mengapa membagikan layar tidak dapat bekerja?",
+      "description": "Untuk pengguna v16.16.38 keatas, semua varian non-root dan yang menggunakan varian root dengan ROM basis microG, ada sebuah bug di upstream microG. Sampai masalah itu terselesaikan, mohon tunggu untuk pembaruan atau kembali ke versi v15. Apabila Anda menggunakan Google Play Services dengan varian root, Anda tidak akan mempunyai masalah dengan membagikan layar."
+    },
+    {
+      "title": "Apa itu APK Signing?",
+      "description": "Anda membaca ini dikarenakan Anda tidak menggunakan Vanced Manager atau Anda mungkin memasang Vanced dari sumber yang tidak resmi. \nHanya gunakan Vanced Manager!\n\nAnda dapat secara aman mengunduh Vanced Manager dari:\n- [Situs resmi] (https://vancedapp.com)\n- [GitHub repository](https://github.com/YTVanced/VancedManager/releases/latest)"
+    },
+    {
+      "title": "Apakah YouTube Vanced berada di Play Store?",
+      "description": "TIDAK!\nSekali lagi, JANGAN memasang atau bahkan mencoba mencari aplikasi palsu apapun yang bernama \"YouTube Vanced\" atau serupa pada Play Store atau toko aplikasi apapun untuk memasang Vanced.\n\nKami hanya memiliki [Petunjuk Vanced](https://play.google.com/store/apps/details?id=com.vanced.faq), dan itu hanyalah aplikasi resmi yang dirilis di Play Store.\n\nApabila Anda menemukan aplikasi lain dengan ikon dan nama kami, laporkan hal tersebut sebagai impersonation dan berilah review yang jelek.\n\nAplikasi kami hanya akan ditemukan di [situs resmi](https://vancedapp.com)."
+    },
+    {
+      "title": "Mengapa Vanced tidak muncul di layar utama atau laci aplikasi?",
+      "description": "Anda membaca ini dikarenakan anda tidak menggunakan Vanced Manager atau Anda mungkin memasang Vanced dari sumber yang tidak resmi. \nHanya gunakan Vanced Manager!\n\nAnda dapat secara aman mengunduh Vanced Manager dari:\n- Situs resmi <https://vancedapp.com>\n- [GitHub repository](https://github.com/YTVanced/VancedManager/releases/latest)"
+    },
+    {
+      "title": "Mengapa video tidak dapat diputar?",
+      "description": "Coba untuk memulai ulang aplikasinya. Hal ini mungkin juga terjadi karena koneksi internet atau perangkat Anda."
+    },
+    {
+      "title": "Mengapa saya memiliki batas 480p?",
+      "description": "Dikarenakan COVID-19, Google membatasi pemakaian data untuk beberapa negara. Hal ini terjadi pada server dan mempengaruhi pengguna Vanced dan YouTube bawaan.",
+      "fields": [
+        {
+          "title": "Solusi:",
+          "content": "1. Hubungkan ke VPN dari region yang berbeda.\n2. Gunakan [versi situs](https://youtube.com)\n3. Sejak pembatasan 480p hanya untuk beberapa perangkat seluler dan bukan tablet, anda bisa mengganti model perangkat di YouTube Vanced untuk mengatasi pembatasan tersebut.\n\n#### Bagaimana cara mengganti model perangkat?\n1. Buka YouTube Vanced.\n2. Pergi ke pengaturan\n3. Tekan pada pengaturan Vanced\n4. Aktifkan pengaturan tersembunyi:\n  - Scroll ke bawah dan tekan pada bagian `Tentang` hingga anda mendapatkan pesan yang mengatakan `Pengaturan tersembunyi diaktifkan`.\n5. Pergi ke `Timpa kodek` \n6. Ubah produsen ke `Samsung` dan model ke `SM-T865`.\n7. Mulai ulang aplikasinya.\n\nSetelah mulai ulang, batas 480p seharusnya sudah hilang.\n4. Mulai ulang aplikasi dan batas 480p seharusnya hilang."
+        }
+      ]
+    },
+    {
+      "title": "Bagaimana cara untuk menyembunyikan notifikasi microG?",
+      "description": "Untuk menyembunyikan notfikasi microG,\n\n1. Anda dapat menonaktifkan optimisasi baterai untuk Vanced micoG dan mulai ulang perangkat anda.\n\n2. Apabila metode di atas tidak bekerja, nonaktifkan notifikasi microG dengan tahan pada notifikasi, matikan dan tekan Simpan.\n\n> Menonaktifkan notifikasi baterai dapat dilakukan dengan berbagai cara tergantung dari Android antarmuka pengguna. Apabila anda tidak tahu bagaimana cara menonaktifkannya, coba gunakan Google untuk belajar cara untuk menonaktifkannya."
+    },
+    {
+      "title": "Apakah 1440p terlihat lebih baik pada layar 1080p saya?",
+      "description": "Iya, tetapi hanya apabila rasio videonya seperti 18:9, 21:9, ... Anda bisa mengaktifkan `Stats for nerds` di Pengaturan > Umum untuk menkonfirmasi.\n\nUntuk mengaktifkan resolusi yang lebih tinggi, pergi ke pengaturan Vanced > pengaturan video dan aktifkan `Resolusi maksimal` lalu mulai ulang aplikasi."
+    }
+  ]
+}

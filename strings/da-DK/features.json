@@ -1,0 +1,32 @@
+{
+  "data": [
+    {
+      "title": "Vanced",
+      "description": "YouTube Vanced har til formål at være en bedre version af YouTube. Det omfatter blokering af reklamer, sort tema, og meget mere. Brug Vanced Manager til at installere YouTube Vanced med relativ lethed."
+    },
+    {
+      "title": "Vanced Musik",
+      "description": "Vanced Music har det samme mål som YouTube Vanced, men denne app fokuserer på YouTube Music. Dette er relativt mindre funktionsrigt i forhold til Vanced men der er stadig mange af de funktioner du forventer, så som reklame blokering og baggrunds afspilning, alt i YouTube Music!"
+    },
+    {
+      "title": "YouTube Vanced hoved funktioner",
+      "description": "- OLED venligt sort tema.\n- Blokerer alle reklamer\n- Tillader dig at afspille videoer i baggrunden eller i Picture in Picture (PiP) mode (kun på Android 8+)\n- Swipe kontrol giver dig mulighed for at styre lysstyrke og lydstyrke med op-og-ned bevægelser (med konfigurerbar polstring).\n- Automatisk gentag funktion, der giver dig mulighed for at loope videoer ved gentagelse.\n- Ny kommentar/tablet mini afspiller layout kan skiftes til tablet versioner, som er meget lig den gamle version (omend lidt buggy)."
+    },
+    {
+      "title": "Tilpasning",
+      "description": "- Tillader dig at tilsidesætte Codec indstillinger så som at tvinge H264 til gamle enheder eller VP9, dette giver dig også mulighed for at tvinge HDR-afspilning eller slukke 60fps, hvis du foretrækker en filmoplevelse. (Brugerdefineret enheds konfiguration for disse funktioner kan findes på vores discord eller på XDA)\n- Tving standard videoopløsning så høj eller lav som du ønsker, og tilsidesættelse af din skærmopløsning for at skarpe 4k afspilning på enhver enhed. Det giver dig også mulighed for at ændre standard afspilningshastighed til hvor som helst mellem 0.25x og 2x (forudsat at din enhed er kraftig nok)\n- Tillader dig at skifte home annoncer, de fleste UI-annoncer, Merchandise-annoncer, Community indlæg, film opsalg kompakte banner info (såsom COVID-19 info), fjerne kommentarer helt, kompakt film, fjernelse af filmhylen og meget mere!"
+    },
+    {
+      "title": "SponsorBlock",
+      "description": "- Indeholder muligheden til at springe sponsorsegmenter over (hvor en youtuber reklamerer for en tjeneste eller produkt i midten af en video)\n- Det understøtter også springe andre kategorier over, såsom introer, outroer og selvpromovering.\n- Bruger API fundet her. Du kan finde flere oplysninger om, hvordan det fungerer\n- Det giver dig også mulighed for at indsende dine egne segmenter til API og bidrage til det større fællesskab\n- Komplet kontrol over, om du automatisk skal springe over en segmentkategori eller vise en knap til at springe over, eller bare ikke springe det over overhovedet.\n- Fremhæver segmentet i den specifikke farve baseret på dets kategori i afspilningstidslinjen."
+    },
+    {
+      "title": "Platforme",
+      "description": "Denne app kan i øjeblikket kun findes til android, der er ingen planer om at understøtte andre platforme i øjeblikket"
+    },
+    {
+      "title": "Forskel mellem root og ikke root",
+      "description": "- Root: \nRoot varianten af Vanced erstatter problemfrit den officielle YouTube-app. Som et resultat, kan du direkte åbne YouTube-links eller fremkalde dem ved hjælp af Google-assistent gennem den modded vanced app.\n- Ikke-root:\n- Hvis du har en enhed, der er svær at roote eller hvis du ikke ønsker at roote din daglige enhed i første omgang, bør du vælge ikke-root varianten. \n- Den kan også installeres på en rooted enhed. Da pakkenavnet på ikke-root varianten er forskellig fra standard YouTube-appen, kan de eksistere side om side. Bemærk at du skal installere en ekstra app (Vanced microG) for at kunne logge ind med din YouTube/Google-konto. \n- Desuden skal du manuelt indstille Vanced som standard app til åbning af YouTube links. \n- Men ikke-root varianten er simpelthen lettere at leve med, så vi anbefaler, at du holder dig til ikke-root varianten, medmindre du virkelig har brug for at erstatte lager YouTube-appen på din telefon."
+    }
+  ]
+}

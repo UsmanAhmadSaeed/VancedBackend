@@ -1,0 +1,20 @@
+{
+  "categories": [
+    {
+      "category": "ڕاگەیاندنی کێشە",
+      "json": "bugreport.json"
+    },
+    {
+      "category": "فێرکاری",
+      "json": "faq.json"
+    },
+    {
+      "category": "تایبەتمەندییەکان",
+      "json": "features.json"
+    },
+    {
+      "category": "چارەسەرکردنی هەڵە",
+      "json": "troubleshooting.json"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "categories": [
+    {
+      "category": "Fejlrapport",
+      "json": "bugreport.json"
+    },
+    {
+      "category": "Ofte stillede spørgsmål",
+      "json": "faq.json"
+    },
+    {
+      "category": "Funktioner",
+      "json": "features.json"
+    },
+    {
+      "category": "Fejlfinding",
+      "json": "troubleshooting.json"
+    }
+  ]
+}

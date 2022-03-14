@@ -1,0 +1,20 @@
+{
+  "categories": [
+    {
+      "category": "گزارش اشکال",
+      "json": "bugreport.json"
+    },
+    {
+      "category": "سوالات متداول",
+      "json": "faq.json"
+    },
+    {
+      "category": "ویژگی‌ها",
+      "json": "features.json"
+    },
+    {
+      "category": "عیب یابی",
+      "json": "troubleshooting.json"
+    }
+  ]
+}

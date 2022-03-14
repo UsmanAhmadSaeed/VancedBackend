@@ -1,0 +1,20 @@
+{
+  "categories": [
+    {
+      "category": "Bugreport",
+      "json": "bugreport.json"
+    },
+    {
+      "category": "Честа питања",
+      "json": "faq.json"
+    },
+    {
+      "category": "Могућности",
+      "json": "features.json"
+    },
+    {
+      "category": "Решавање проблема",
+      "json": "troubleshooting.json"
+    }
+  ]
+}

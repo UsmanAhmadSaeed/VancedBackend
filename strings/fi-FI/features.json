@@ -1,0 +1,32 @@
+{
+  "data": [
+    {
+      "title": "Vanced",
+      "description": "YouTube Vanced pyrkii olemaan parempi versio YouTubesta. Se sisältää mainosteneston, mustan teeman ja paljon muuta. Käytä Vanced Manageria asentaaksesi YouTube Vancedin helposti."
+    },
+    {
+      "title": "Vanced Music",
+      "description": "Vanced Musicilla on sama pyrkimys kuin YouTube Vancedilla, mutta tämä sovellus keskittyy YouTube Musiciin. Tämä on suhteellisen vähemmän ominaisuusrikas verrattuna Vancediin, mutta se silti sisältää monia asioita joita tulisit odottamaan kuten mainosteneston ja taustatoiston, kaiken YouTube Musicin sisällä!"
+    },
+    {
+      "title": "YouTube Vancedin pääominaisuudet",
+      "description": "- OLED-ystävällinen musta teema.\n- Estää kaikki mainokset\n- Mahdollistaa videoiden toistamisen taustalla tai Picture in Picture (PiP) -tilassa (vain Android 8+)\n- Pyyhkäisyohjaukset antavat sinun ohjata kirkkautta ja äänenvoimakkuutta ylös-ja-alas liikkeillä (säädettävällä pehmustuksella).\n- Automaattinen toisto -ominaisuus antaa sinun toistaa videoita uudelleen.\n- Uusi kommentti/tabletti minitoistin asettelu voidaan kytkeä tablettiversioihin jotka ovat erittäin samanlaisia kuin vanha versio (vaikkakin hieman viallisia)."
+    },
+    {
+      "title": "Mukauttaminen",
+      "description": "- Sallii sinun ohittaa koodekkiasetuksia, kuten pakottaa H264 vanhoille laitteille tai VP9, tämän avulla voit myös pakottaa HDR-toiston tai laittaa 60fps pois päältä jos haluat elokuvallisen kokemuksen. (Mukautetut laiteasetukset näitä ominaisuuksia varten löytyvät meidän [Discord-palvelimelta](https://discord.gg/Vanced) tai XDA:sta)\n- Pakota videon oletusresoluutio niin korkealle tai matalalle kuin haluat ja jopa ohita näyttösi resoluutio terävää 4k toistoa varten millä tahansa laitteella. Sen avulla voit myös muuttaa oletustoistonopeuden minne tahansa 0.25x ja 2x välillä (olettaen, että laitteesi on riittävän tehokas)\n- Sallii sinun piilottaa kotinäkymän mainoksia, useimpia käyttöliittymän mainoksia, tuotteiden mainoksia, yhteisön viestejä, elokuvien myyntiä, kompaktien bannerien tietoja (kuten COVID-19 info), poistaa \n kommentit kokonaan, kompaktien elokuvien ja elokuvahyllyjen poisto ja paljon muuta!"
+    },
+    {
+      "title": "SponsorBlock",
+      "description": "- Kyky ohittaa sponsori segmentit (jossa [Tubettaja](https://fi.wikipedia.org/wiki/Tubettaja) mainostaa palvelua tai tuotetta videon keskellä)\n- Tukee myös muiden kategorioiden ohittamista, kuten introjen, outrojen ja itsensä mainostuksen.\n- Käyttää APIa, joka [löytyy täältä](https://sponsor.ajay.app). Voit löytää lisää tietoa siitä, miten se toimii\n- Voit myös lähettää omia segmenttejä APIin ja osallistua laajemman yhteisön toimintaan\n- Täysi hallinta siitä, ohitetaanko segmenttikategoria automaattisesti vai näytetäänkö painike ohittamista varten, tai yksinkertaisesti vain ei ohiteta sitä lainkaan.\n- Korostaa segmentin tietyllä värillä, joka määräytyy kategorian perusteella, toiston aikajanassa."
+    },
+    {
+      "title": "Alustat",
+      "description": "Sovellus on tällä hetkellä olemassa vain Androidille, eikä eri alustojen tukeminen ole tällä hetkellä suunnitelmissa"
+    },
+    {
+      "title": "Root ja Non-Root -versioiden erot",
+      "description": "#### Root:\nVanced-sovelluksen root-variantti saumattomasti korvaa virallisen YouTube-sovelluksen. Tämän seurauksena voit avata YouTube-linkkejä tai kutsua niitä Google Assistantin avulla suoraan modatun Vanced-sovelluksen kautta.\n\n#### Ei-root:\n– Jos sinulla on laite, jota on vaikea rootata, tai et halua rootata päivittäistä laitettasi, sinun kannattaa valita ei-root -versio.\n- Koska ei-root paketin nimi on erilainen kuin tavallisen YouTube-sovelluksen, ne voivat molemmat olla asennettuna. Huomaa, että sinun täytyy asentaa ylimääräinen kumppanisovellus (Vanced microG) voidaksesi kirjautua sisään YouTube/Google -tilillesi.\n- Lisäksi sinun täytyy manuaalisesti asettaa Vanced YouTube-linkkien avaamisen oletussovellukseksi.\n- Ei-root -variantti on kuitenkin paljon yksinkertaisempi asentaa ja käyttää, joten suosittelemme pysymään ei-root vaihtoehdolla, ellei sinun todella tarvitse korvata puhelimesi YouTube-sovellus."
+    }
+  ]
+}

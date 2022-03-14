@@ -1,0 +1,22 @@
+{
+  "data": [
+    {
+      "title": "버그를 제보하는 방법",
+      "description": "[GitHub 이슈 트래커](https://github.com/YTVanced/Vanced)로 버그를 제보할 수 있습니다.\n\n**버그 제보 전 우선 README 파일을 읽고 같은 버그가 이미 제보되지는 않았는지 확인해야 합니다!**",
+      "fields": [
+        {
+          "title": "버그는 언제 검토되나요?",
+          "content": "피드백은 최대한 빨리 검토될 겁니다."
+        },
+        {
+          "title": "logcat은 어떻게 보나요?",
+          "content": "비루트 사용자의 경우:\n`logcat`을 보려면 PC가 필요합니다. [설명 글](https://github.com/YTVanced/Vanced#creating-a-logcat-using-the-android-debug-bridge-adb-on-your-pc)과 [설명 동영상](https://youtu.be/ICLpwgsJJP0)을 참고하십시오.\n\n루트 사용자의 경우:\nPC가 필요하지 않습니다. [여기](https://github.com/YTVanced/Vanced#creating-a-logcat-using-termux-on-your-rooted-android)에 나와 있는 대로 진행하십시오."
+        },
+        {
+          "title": "UI와 관련된 버그입니까?",
+          "content": "UI 관련 버그를 제보할 때는 몇 가지 단계를 좀 더 거쳐야 합니다.\n\n우선 [Developer Assistant](https://play.google.com/store/apps/details?id=com.appsisle.developerassistant)를 설치하고 설정을 마치십시오.\n그 후, Vanced로 가서 버그를 재현하고, Developer Assistant를 트리거하여 레이아웃 뷰어를 여십시오.\n\n이제 아래와 같이 하십시오.\n1. 발생한 버그가 화면에 있는지 확인합니다.\n2. 버그의 영향을 받는다고 생각되는 요소를 누릅니다.\n3. `Element` 및 `Hierarchy` 탭으로 이동하고 결과 화면을 찍습니다.\n4. 찍은 결과 화면을 버그 보고서에 사용합니다."
+        }
+      ]
+    }
+  ]
+}

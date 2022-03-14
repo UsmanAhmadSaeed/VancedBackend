@@ -1,0 +1,120 @@
+{
+  "data": [
+    {
+      "title": "Ce este YouTube Vanced?",
+      "description": "YouTube Vanced este o versiune modificată de YouTube cu caracteristici suplimentare pentru a vă îmbunătăți experiența YouTube!\n\nAstfel de caracteristici includ:\n- Redare în fundal,\n- Poză în imagine (PiP), \n- Temă neagră (prietenie OLED),\n- Eliminarea reclamelor (necesită activare),\n- Suprascrie rezoluția maximă (permiteți redarea videoclipului cu o rezoluție mai mare decât ecranul),\n- . .and multe altele!\n\nPentru mai multe informații, vizitați <https://vancedapp.com>"
+    },
+    {
+      "title": "Unde este butonul de descărcare?",
+      "description": "Bineînțeles, Google nu va permite ca o versiune modificată a propriei sale aplicații să fie în magazin, așa că nu o căutați în Magazinul Google Play, acestea sunt doar aplicații false.\n\nAplicațiile Vanced pot fi descărcate și instalate folosind Vanced Manager, care poate fi găsit pe site-ul nostru oficial: <https://vancedapp.com> dar le poți deasemenea găsi în [GitHub repo](https://github. om/YTVanced/VancedManager/releases/latest)."
+    },
+    {
+      "title": "Se actualizează automat YouTube Vansat?",
+      "description": "Nu, nu este.\n\nVanced Manager vă va trimite o notificare atunci când există o nouă actualizare.\n\nDe asemenea, vă puteți alătura [serverului nostru Discord](https://discord. g/wYrRPgv) sau urmați [canalul Telegram](https://t.me/Vanced) pentru cele mai recente noutăți și actualizați notificările."
+    },
+    {
+      "title": "Poate Vanced descarca videoclipuri?",
+      "description": "Vanced nu include nicio funcție de descărcare video și nu o va face niciodată.\n\nMulte videoclipuri sunt disponibile pentru a fi descărcate gratuit în [țările selectate](https://support. oogle.com/youtube/answer/6141269). Pentru restul lumii, te rugăm să obții YouTube Premium sau să folosești un alt download.\n\nDin nou, Vanced nu va adăuga niciodată un downloader video aplicației sau orice altceva similar.\n\nAcesta a fost motivul pentru care multe moduri YouTube au fost închise în trecut, deoarece Google nu le place oamenilor să descarce conținut protejat de drepturi de autor de pe platforma lor, așa că nu îl solicita!!!"
+    },
+    {
+      "title": "De ce nu funcționează gesturile de glisare?",
+      "description": "Dacă aveți comentarii afișate în partea de jos (locul vechi) în Setări Vanced > Setări Layout, dezactivați și reporniți aplicația. Dacă acest lucru nu funcționează, opriți aplicația și ștergeți datele."
+    },
+    {
+      "title": "Subtitrările nu sunt disponibile?",
+      "description": "Aceasta nu este o problemă. Nu toate videoclipurile au subtitrări."
+    },
+    {
+      "title": "Luați donații?",
+      "description": "NU acceptăm donații!\n\nOrice fel de donații în orice situație și orice site-uri sau link-uri sau postări care solicită donații sunt pur și simplu false.\n\nDar dacă vrei să susții dezvoltatorii Vanced poți descărca Brave folosind [acest link](https://brave.com/kev231) și AdGuard folosind [acest link](https://adguard.com/en/welcome.html?aid=31141)."
+    },
+    {
+      "title": "Cum să faci playerul să se autoascundă automat?",
+      "description": "Îl puteţi configura în YouTube Vanced Setări > Accesibilitate. Dacă setările nu se deschid sau nu funcționează, mergeți la setările de accesibilitate ale dispozitivului și dezactivați amplificarea sunetului, schimbați pagina de acces live."
+    },
+    {
+      "title": "De ce să utilizezi APK-uri separate?",
+      "description": "Deoarece:\n\n1. Aplicația stoc o folosește așa încât Vanced o folosește de asemenea.\n2. Acesta instalează doar limbile pe care le specificați pentru a reduce consumul stocării.\n3. Are singura versiune de bază APK de care are nevoie dispozitivul.\n\nDesigur, Vanced Manager sau dezvoltatori îl pot converti într-un singur fișier APK, dar suntem atât de leneși să îl facem. Trebuie doar să te folosești cu ceea ce avem...\n\nNu vă faceți însă griji, Vanced Manager face tot ce ne stă în putere, așa că apăsați pe butonul `Install`."
+    },
+    {
+      "title": "De ce culoarea din ecranul de pornire nu se potrivește cu tema? ",
+      "description": "Culoarea de fundal a ecranului de pornire este luată din Android framework pentru a se asigura că se modifică în funcție de tema sistemului. Puteți folosi teme Substratum/Swift pentru a schimba culoarea."
+    },
+    {
+      "title": "Ar trebui să redescarc fișierele de instalare?",
+      "description": "Fişierele pot fi corupte din diverse motive şi pot cauza probleme ulterior. Pentru a evita acest lucru, puteţi alege să-l descărcaţi din nou pentru a vă asigura că instalarea se desfăşoară fără probleme."
+    },
+    {
+      "title": "De ce versiunea rădăcină nu are permisiuni Microfon? ",
+      "description": "În cazul în care Vanced este actualizat."
+    },
+    {
+      "title": "Ce este ExoPlayer v1?",
+      "description": "Este o versiune mai veche a actualului player media folosit de YouTube. Ai putea obține o performanță și o stabilitate mai bună atunci când îl folosești."
+    },
+    {
+      "title": "Cum se activează setările ascunse?",
+      "description": "În setări Vanced atingeți secțiunea `Despre' de 6-7 ori pentru a o activa. Acest lucru permite doar setările suplimentare de codec video."
+    },
+    {
+      "title": "Cum să setezi YouTube Vanced ca aplicaţie implicită?",
+      "description": "După cum spune titlul, mulți utilizatori au întrebat de multe ori cum pot face YouTube Vanced ca implicit pentru a deschide link-uri YouTube din alte aplicații (cum ar fi browserele, aplicații de mesagerie și orice altă aplicație).\n\nPentru varianta cu root, nu trebuie să vă faceţi griji, deoarece este deja setat în mod implicit, deoarece YouTube Vanced este înlocuit cu YouTube stoc.\n\nPentru varianta non-root, soluţiile au fost diferite între OneUI, MIUI şi restul. Nu putem oferi soluții pentru fiecare sistem de operare și este posibil să trebuiască să căutati pe Google.",
+      "fields": [
+        {
+          "title": "Utilizatori OneUI:",
+          "content": "1. Apăsați și țineți apăsat pe pictograma aplicaţiei YouTube sau YouTube Vanced app din lista de aplicații.\n2. Apasă pe **Informații aplicație**.\n3. Găsește \"**Setează ca implicit**\" și apasă pe ea\n4. Apasă \"**Deschide link-urile suportate**\" și alege \"**Deschide în această aplicație**\"\n\nÎn versiunile mai vechi ale OneUI, denumirea opțiunilor din a patra etapă ar putea fi ușor diferită. Este posibil să fie nevoie să apăsați \"**Mergeți la URL-uri acceptate**\" și să alegeți opțiunea \"**În această aplicație**\".\nÎn versiunea foarte veche a OneUI 💩, poate fi necesar să mergeți la **Setări** > **Aplicații** > *[atingeți trei puncte la colțul dreapta]* > **Aplicații implicite** > **Setate ca implicit**. După ce aplicațiile s-au încărcat găsiți YouTube Vanced sau YouTube și urmați pasul 4..."
+        },
+        {
+          "title": "Utilizatori MIUI:",
+          "content": "1. Deschideți Setări\n2. Accesați **Aplicații**,\n3. **Gestionați aplicații**,\n4. Apoi, apasă pe cele trei puncte din colțul din dreapta,\n5. **Aplicații implicite**,\n6. **Deschidere linkuri**.\n7. Așteptați până când toate aplicațiile vor fi listate…\n8. Găsiți YouTube sau YouTube Vanced și apăsați-l.\n9. Apăsați \"**Deschide link-urile acceptate**\" și alegeți \"**Deschidere**\""
+        },
+        {
+          "title": "AOSP & alte UI-uri personalizate (OOS, ColorOS, EMUI etc.):",
+          "content": "1. Deschideți **Setările**\n2. Mergeți la **Aplicații**\n3. Apăsați **Aplicații implicite**\n4. Găsiți **YouTube** sau **YouTube Vanced**\n5. Apăsați \"**Mergeți la URL-uri acceptate**\" și alegeți \"**Deschideți în această aplicație**\" opțiunea\n\nDacă încă aveți probleme, s-ar putea să fie necesar să căutați câteva articole \"cum să faceți\" sau videoclipuri pe [Google](https://www.google.com/search?q=%22android%22+how+to+open+youtube+links+with+youtube) sau puteți instala o aplicație terță parte din [Play Store](https://play.google.com/store/search?q=open%20with) pentru a te salva de la această complicație…"
+        }
+      ]
+    },
+    {
+      "title": "De ce nu funcționează varianta rădăcinii cu nucleul microG? ",
+      "description": "1. Trebuie să aveți cel puțin varianta de GApps [pico](https://github.com/opengapps/opengapps/wiki/Pico-Package) pentru a rula Vanced.\n\n2. Nu poți rula Vanced cu microG Core fără Google Play Services Framework disponibil în toate pachetele GApps și este o bibliotecă necesară.\n\n3 Dacă ești îngrijorat în legătură cu confidențialitatea ta și nu vrei să folosești GApps, dar vrei totuși să folosești YouTube Vanced fără anunțuri, atunci [versiunea web](https://youtube.com) este întotdeauna disponibilă."
+    },
+    {
+      "title": "De ce nu se rotește?",
+      "description": "Pentru utilizatorii cu v16.16.16.38 și toate peste variantele non-root și variantele rădăcină care folosesc ROM-uri bazate pe microG, există o eroare în microG în amonte. Până când acest lucru se rezolvă, vă rugăm să aşteptaţi actualizări sau să reveniţi la versiunile v15. Dacă folosiți serviciile Google Play cu variante root, nu veți avea probleme cu redarea."
+    },
+    {
+      "title": "Ce este semnare APK?",
+      "description": "Citiți acest lucru deoarece nu utilizați Vanced Manager sau este posibil să fi instalat Vanced dintr-o sursă neoficială. \nUtilizează doar Vanced Manager!\n\nPuteți descărca în siguranță Vanced Manager din:\n- [Site oficial](https://vancedapp.com)\n- [GitHub repository](https://github. om/YTVanced/VancedManager/releases/latest)"
+    },
+    {
+      "title": "Este YouTube Vanced pe Play Store?",
+      "description": "NU!\nDin nou, NU instalați sau nu încercați nici măcar să căutați aplicații false numite \"YouTube Vanced\" sau similare în Play Store sau orice magazin de aplicații pentru a instala Vanced.\n\nAvem doar [Ghid Vanced](https://play.google.com/store/apps/details?id=com.vanced.faq) și este singura aplicație oficială publicată pe Play Store.\n\nDacă găsești orice altă aplicație cu pictograma și numele nostru, raportează că este impersonată și dă o recenzie greșită.\n\nAplicațiile noastre pot fi găsite numai la [site oficial](https://vancedapp.com)."
+    },
+    {
+      "title": "De ce Vanced nu se afișează în ecranul de pornire sau în sertarul de aplicații?",
+      "description": "Citești acest lucru pentru că nu folosești Vanced Manager sau este posibil să fi instalat Vanced dintr-o sursă neoficială.\nFolosiți doar Vanced Manager!\n\nPuteți descărca în siguranță Vanced Manager din:\n- Site oficial <https://vancedapp.com>\n- [Repozitoriu GitHub](https://github.com/YTVanced/VancedManager/releases/latest)"
+    },
+    {
+      "title": "De ce nu se redau videoclipurile?",
+      "description": "Încercați să reporniți aplicația. S-ar putea să fie și din cauza conexiunii la internet sau a dispozitivului dvs."
+    },
+    {
+      "title": "De ce am limita de 480p?",
+      "description": "Datorită COVID-19, Google restricționează utilizarea datelor din mai multe țări. Acest lucru se întâmplă pe server și afectează atât utilizatorii Vanced cât și YouTube stock.",
+      "fields": [
+        {
+          "title": "Soluții alternative:",
+          "content": "1. Conectează-te la un VPN dintr-o regiune diferită.\n2. Folosește [versiunea web](https://youtube.com)\n3. Deoarece restricţia 480p se aplică numai pentru telefoane şi nu pentru tablete, puteţi schimba modelul dispozitivului de pe YouTube Vanced pentru a depăşi restricţia.\n\n#### Cum să schimbați modelul dispozitivului?\n1. Deschideți YouTube Vanced.\n2. Mergeți la Setări\n3. Atingeți `Vanced Settings`\n4. Activați setările ascunse:\n  - Derulați în jos și apăsați pe secțiunea `Despre' până când primiți un mesaj care spune `Setări ascunse activate`.\n5. Mergeți la `Suprascriere Codec`\n6. Setați producătorul la `Samsung` și model la `SM-T865`.\n7. Reporniți aplicația.\n\nDupă repornire, limita de 480p ar trebui să dispară."
+        }
+      ]
+    },
+    {
+      "title": "Cum să ascunzi notificarea microG?",
+      "description": "Pentru a ascunde notificarea microG,\n\n1. Puteți dezactiva optimizarea bateriei pentru microG Vanced și reporniți dispozitivul\n\n2. Dacă metoda de mai sus nu funcționează, dezactivați notificările microG ținând apăsat la notificare, activați-o și atingeți Salvare.\n\n>Dezactivarea notificărilor aplicațiilor poate fi efectuată în moduri diferite, în funcție de interfața Android. Dacă nu știi cum să o dezactivezi, încearcă să folosești Google pentru a învăța cum să o dezactivezi."
+    },
+    {
+      "title": "1440p arată mai bine pe ecranul meu 1080p?",
+      "description": "Da, dar numai dacă raportul video este ceva de genul 18:9, 21:9, ... Puteți activa `Statistici pentru nerds` în Setări > General pentru confirmare.\n\nPentru a activa rezoluții mai înalte, accesați Setări Vanced > Setări video și activați `Rezoluția Max` și reporniți aplicația."
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "data": [
+    {
+      "title": "বাগ রিপোর্ট কিভাবে করবেন?",
+      "description": "আমাদের [গিটহাব ইস্যু সেন্টারে] ইস্যু তৈরি করে আপনি বাগগুলি রিপোর্ট করতে পারেন (https://github.com/YTVanced/Vanced#vanced-issue-center)৷\n\nআপনার ইস্যুটি খোলার আগে সেটি ইতিমধ্যে রিপোর্ট করা হয়েছে কিনা তা যাচাই করতে বিদ্যমান ইস্যুগুলি দেখে নিন!",
+      "fields": [
+        {
+          "title": "আমার ইস্যুটি কখন পর্যালোচনা করা হবে?",
+          "content": "ডেভেলপাররা নতুন নতুন বৈশিষ্ট্য তৈরি করতে এবং আরও অনেক ইস্যু ফিক্স করার জন্য কিছু সময় আলাদা করে রাখে এবং সেগুলির প্রত্যেকটি শেষ করতে বেশ কিছুটা সময় লাগতে পারে। \nআপনাকে কেবল একটু ধৈর্য ধরে অপেক্ষা করতে হবে। আপনার ইস্যুটি যত তাড়াতাড়ি সম্ভব পর্যালোচনা করা হবে।"
+        },
+        {
+          "title": "আমি কীভাবে লগক্যাট নেব?",
+          "content": "For non-root users:\nYou will need a PC to take `logcat` outputs. Here is a [text guide](https://github.com/YTVanced/Vanced#creating-a-logcat-using-the-android-debug-bridge-adb-on-your-pc) and a [video guide](https://youtu.be/ICLpwgsJJP0).\n\nFor root users:\nYou don't need a PC for this, please follow [the instructions](https://github.com/YTVanced/Vanced#creating-a-logcat-using-termux-on-your-rooted-android)."
+        },
+        {
+          "title": "আপনার বাগটি কি ইউআই সম্পর্কিত?",
+          "content": "ইউআই-সম্পর্কিত বাগগুলির জন্য, আপনাকে অতিরিক্ত পদক্ষেপ নিতে হবে।\n\nদয়া করে [Developer Assistant](https://play.google.com/store/apps/details?id=com.appsisle.developerassistant) ইনস্টল করুন এবং সেট আপ করুন৷ এর পরে, ভ্যান্সডে যান এবং বাগটি পুনরুৎপাদন করুন, তারপরে Developer Assistant ট্রিগার করে লেআউট ভিউয়ারটি খুলুন\n\nএখন এই স্টেপগুলি অনুসরণ করুন:\n১. নিশ্চিত হয়ে নিন যে বাগটি স্ক্রিনে দেখাচ্ছে।\n২. যে এলিমেন্টটি বাগ দ্বারা প্রভাবিত হয়েছে বলে আপনার মনে হয় সেটি ট্যাপ করুন।\n৩. `Element` এবং `Hierarchy` ট্যাবগুলিতে যান এবং আউটপুটগুলির স্ক্রিনশট নিন৷\n৪. আপনার ইস্যুতে সেই স্ক্রিনশটগুলি অন্তর্ভুক্ত করুন।"
+        }
+      ]
+    }
+  ]
+}

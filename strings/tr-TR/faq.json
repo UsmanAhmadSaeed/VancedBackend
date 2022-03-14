@@ -1,0 +1,120 @@
+{
+  "data": [
+    {
+      "title": "Vanced nedir?",
+      "description": "YouTube Vanced, YouTube kullanımını daha iyi hale getirmek için ekstra özelliklerle modifiye edilmiş bir sürümüdür.\n\nEkstra özelliklerden bazıları:\n- Arka planda oynatma,\n- PiP (Açık uygulamalar üzerinde küçük video oynatıcısı)\n- Siyah tema (OLED dostu),\n- Reklam kaldırma (etkinleştirilmesi gerekebilir),\n- Çözünürlük ayarını değiştirme (cihazının desteklediği çözünürlükten daha yüksek çözünürlüğe sahip videoları oynatmaya olanak sağlar),\n- ... ve daha neler neler!\n\nDaha fazla bilgi için <https://vancedapp.com>'u ziyaret edebilirsin"
+    },
+    {
+      "title": "İndirme butonu nerede?",
+      "description": "Açıkçası Google, kendi uygulamasının modifiye edilmiş bir sürümünü Play Store'da yayınlanmasına izin vermez, vermiyor da. Bu yüzden Vanced'ı Play Store'da aramamalı ve sonuçlarda çıkacak resmi olmayan diğer uygulamaların da sahte/fake uygulamalar olduğunu bilmelisin.\n\nVanced uygulamalarını, Vanced Manager uygulamasını kullanılarak kolayca indirebilirsin. \nVanced Manager'ı <https://vancedapp.com> resmi sitesinden veya [GitHub deposundan](https://github.com/YTVanced/VancedManager/releases/latest) indirebilirsin."
+    },
+    {
+      "title": "YouTube Vanced otomatik güncelleniyor mu?",
+      "description": "Hayır, güncellenmiyor.\n\nYeni bir sürüm olduğunda Vanced Manager bildirim ile gösterir.\n\nAyrıca [Discord sunucusuna](https://discord.gg/wYrRPgv) katılabilir veya [Telegram kanalını](https://t.me/Vanced) takip ederek yeniliklerden ve güncellemelerden haberdar olabilirsin."
+    },
+    {
+      "title": "Vanced ile video indirilebilir mi?",
+      "description": "Vanced'da video indirme özelliği yoktur ve hiçbir zaman da olmayacaktır.\n\nÇoğu videolar [izin verilen ülkelerde](https://support.google.com/youtube/answer/6141269?hl=tr) indirilebilir. İzin verilmeyen ülkelerde ise, YouTube Premium satın alınması gerekir.\n\nTekrar hatırlatalım, Vanced ASLA ve ASLA video indirme veya benzer bir özelliğe sahip olmayacaktır.\n\nGoogle, telif hakkıyla korunan içeriklerin indirilmesini desteklemiyor ve dolayısıyla geçmişte YouTube'un modifiye edilmiş sürümlerinin reddedilmesi ve kapatılmasındaki ana neden buydu. O yüzden indirme özelliği istemekten vazgeçmelisin.!!"
+    },
+    {
+      "title": "Kaydırma jestleri neden çalışmıyor?",
+      "description": "Eğer yorumlar kısmı en altta (eski yerinde) gözüküyorsa, muhtemelen Vanced ayarları > Arayüz ayarları içerisindeki seçenek aktif edilmiştir. Seçeneği kapatıp, uygulamayı yeniden başlatmalısın. Eğer o da işe yaramazsa, uygulamayı zorla durdurup, verilerini silebilirsin."
+    },
+    {
+      "title": "Altyazı neden yok veya listelenmiyor?",
+      "description": "Açıkçası bu tamamen videoyu ekleyen kişi/kanal ile ilişkili bir sorundur. Vanced veya YouTube bu konuyla alakalı herhangi bir çözüm sağlayamaz."
+    },
+    {
+      "title": "Bağış alıyor musunuz?",
+      "description": "HAYIR, almıyoruz.\n\nHer ne şekilde olursa olsun bağış isteyen site veya link, tamamen sahtedir.\n\nYine de Vanced geliştiricilerini desteklemek istiyorsan, [bu linkten](https://brave.com/kev231) Brave'i, ve [bu linkten](https://adguard.com/en/welcome.html?aid=31141) AdGuard'ı indirerek destek olabilirsin."
+    },
+    {
+      "title": "Oynatıcı kontrolleri otomatik nasıl gizlenir?",
+      "description": "YouTube Vanced > Ayarlar > Erişilebilirlik kısmından bu özelliği ayarlayabilirsin. Eğer ayarlar açılmaz veya çalışmaz ise, cihazının erişilebilirlik ayarlarından ses yükseltme, anahtar erişimi ve canlı altyazı özelliklerini kapatmayı deneyebilirsin."
+    },
+    {
+      "title": "Neden Split APKs yöntemi?",
+      "description": "Çünkü:\n\n1. Orijinal uygulama, kurulum için bu yöntemi kullanıyor. Haliyle Vanced'da kullanıyor.\n2. Sadece belirlenen dilleri yükleyerek, depolama alanındaki tüketimi azaltır.\n3. Cihazınla uyumlu olan ana APK sürümünü barındırır.\n\nTabii ki de, Vanced Manager veya geliştiriciler uygulamayı bütün olarak tek bir APK dosyası olarak dönüştürebilir. Fakat üşengeçliğimiz ağır bastığı için bu işlemi ve geliştirmesini yapmaya vakit ayıramıyoruz. Elimizde olanla idare etmemiz gerekiyor...\n\nBundan dolayı endişelenmene de gerek yok hani. Vanced Manager kurulum esnasında yaşanabilecek öngörülen tüm zorlukları hallediyor. Bu yüzden kurulum için sadece `Yükle` butonuna basman yeterli olacaktır."
+    },
+    {
+      "title": "Uygulama açılırkenki renk, neden temayla aynı değil? ",
+      "description": "Açılıştaki arkaplan rengi cihazın teması ile aynı olması için, Android framework yapısından alınır. Rengi değiştirmek istersen eğer, [Substratum](https://play.google.com/store/apps/details?id=projekt.substratum), [Swift Installer](https://play.google.com/store/apps/details?id=com.brit.swiftinstaller), vb. uygulamalarından birini kullanabilirsin."
+    },
+    {
+      "title": "Kurulum dosyalarını yeniden indirmeli miyim?",
+      "description": "Dosyaların yapısı çeşitli nedenlerden dolayı bozulabilir/zarar görebilir ve ileride sorunlar yaşatabilir. Kurulumun sorunsuz ve düzgün gerçekleştiğinden emin olmak için, dosyalarının yeniden indirilmesi önerilir."
+    },
+    {
+      "title": "Root sürümünde mikrofon izinleri neden yok? ",
+      "description": "Vanced'in güncel sürümünde var."
+    },
+    {
+      "title": "ExoPlayer v1 nedir?",
+      "description": "YouTube video oynatıcısının eski bir sürümüdür. Kullanıldığında belki daha iyi performans ve denge/çalışma elde edebilirsin."
+    },
+    {
+      "title": "Gizli ayarlar nasıl etkinleştirilir?",
+      "description": "Vanced ayarlarında, `Hakkında` kısmına 6-7 defa dokunarak, gizlenmiş ek video çözücüsü ayarlarını etkinleştirebilirsin. "
+    },
+    {
+      "title": "YouTube Vanced'ı, varsayılan uygulama olarak nasıl ayarlarım?",
+      "description": "Başlığın dediği gibi, birçok kullanıcı birçok kez diğer uygulamalardan (tarayıcılar, mesajlaşma uygulamaları ve diğer uygulamalar gibi) YouTube bağlantılarını açmak için YouTube Vanced'i varsayılan olarak nasıl yapabileceklerini soruyor.\n\nKök yetkisi olanlar için endişelenmenize gerek yok, çünkü resmi YouTube, YouTube vanced ile değiştirildiğinden, zaten varsayılan olarak ayarlanmıştır.\n\nKök yetkisi olmayanlar için çözümler OneUI, MIUI ve diğerleri olarak bölünmüştür. Oradaki her işletim sistemi için çözümler sağlayamıyoruz ve Google'a kendiniz ihtiyacınız olabilir.",
+      "fields": [
+        {
+          "title": "OneIO kullanıcıları:",
+          "content": "1. YouTube/Youtube Vanced uygulama ikonuna basılı tut\n2. **Uygulama bilgileri**ne dokun\n3. **Varsayılanlar**'a gir\n4. **Desteklenen bağlantıları aç** seçeneğini **Her zaman aç** olarak seç.\n\nOneUI arayüzünün eski sürümlerinde, 4. adımdaki seçeneklerin isimlerinde ufak farklılıklar olabilir. **Desteklenen bağlantılara git** benzeri olan seçeneği, **Bu uygulamada aç** olarak seçebilirsin.\nOneUI arayüzünün, en eski sürümlerinde 💩 ise, adımlar biraz daha farklı olabilir. **Ayarlar** > **Uygulamalar** > *[sağ köşedeki 3 noktaya dokun]* > **Varsayılanlar** > **Varsayılan olarak ayarla** adımlarını takip ederek yukarıda belirtilen 4. adımdaki önerilen ayarları uygulayabilirsin..."
+        },
+        {
+          "title": "MIUI kullanıcıları:",
+          "content": "1. Ayarları aç\n2. **Uygulamalar**a gir\n3. **Uygulamaları yönet**\n4. Sağ köşedeki 3 noktaya dokun,\n5. **Varsayılan**\n6. **Bağlantıları aç**\n7. Uygulamaların tamamı listelenene kadar bekle…\n8. Listeden YouTube veya YouTube Vanced'ı bul ve dokun.\n9. **Destekleyen bağlantıları aç** seçeneğini **Açık** olarak ayarla"
+        },
+        {
+          "title": "AOSP & özelleştirilmiş diğer arayüzler (OOS, ColorOS, EMUI, vb.):",
+          "content": "1. **Ayarlar**ı aç\n2. **Uygulamalar**a git\n3. **Varsayılan uygulamalar**a dokun\n4. **YouTube** veya **YouTube Vanced**'ı bul\n5. **Desteklenen bağlantıları aç** seneneğini **Bu uygulamada aç** olarak ayarla\n\nAdımları takip ettiğin halde halen sorun yaşıyorsan, [Google'dan](https://www.google.com.tr/search?q=android+youtube+uygulamas%C4%B1nda+varsay%C4%B1lan+olarak+nas%C4%B1l+ayarlan%C4%B1r) \"nasıl yapılır\" şeklinde arama yaparak sonuçları/videoları inceleyebilirsin veya [Play Store'dan](https://play.google.com/store/search?q=open%20with) 3. parti uygulama indirerek sorununa ayrıca çözüm de bulabilirsin…"
+        }
+      ]
+    },
+    {
+      "title": "Çekirdek microG ile root sürümü neden çalışmıyor? ",
+      "description": "1. GApps'in en az [pico](https://github.com/opengapps/opengapps/wiki/Pico-Package) paketi içeriğine sahip olduğundan emin olmalısın.\n\n2. Tüm GApps paketlerinde bulunan Google Play Services Framework'ü olmadan Vanced ve microG Core'u çalıştıramazsın.\n\n3. Gizliliğin hakkında endişeleniyor ve GApps kullanmak istemiyor ama, YouTube'u da reklamsız kullanmaya devam etmek istiyorsan, [web sitesini](https://youtube.com) kullanmaya devam edebilirsin."
+    },
+    {
+      "title": "Ekran yansıtma neden çalışmıyor?",
+      "description": "v16.16.38 ve sonraki sürümlerde, bir microG bugı yüzünden, root olmayan kullanıcılar veya MicroG'li ROM kullanan kişiler sorun yaşayabilir. Bu sorunun çözülmesi için güncelleştirmeleri bekleyebilirsiniz veya v15 sürümlerini kullanabilirsiniz. Root sürümü Google Play hizmetleriyle birlikte kullanıyorsanız, ekran yansıtmayla ilgili bir sorunla karşılaşmamalısınız."
+    },
+    {
+      "title": "APK imzası nedir?",
+      "description": "Bunu okuyorsan, muhtemelen Vanced Manager'ı kullanmıyorsundur veya Vanced'ı resmi olmayan bir kaynaktan yüklemişsindir.\nVanced Manager'ı kullan lütfen!\n\nAşağıdaki kaynaklardan Vanced Manager'ı güvenli biçimde indirebilirsin:\n- [Resmi sitesinden](https://vancedapp.com)\n- [GitHub deposundan](https://github.com/YTVanced/VancedManager/releases/latest)"
+    },
+    {
+      "title": "Play Store'da YouTube Vanced'ı bulabilir miyim?",
+      "description": "HAYIR!\nTekrar hatırlatalım, Play Store'dan \"YouTube Vanced\" ve benzer isimli sahte uygulamaları ARAMAMALISIN ve İNDİRMEMELİSİN!\n\nPlay Store'da sadece [Vanced Guide](https://play.google.com/store/apps/details?id=com.vanced.faq) uygulamamız var ve yine sadece YouTube'un orijinal uygulaması Store'da bulunuyor.\n\nİkonumuza ve ismimize sahip olan uygulamaya denk gelirsen eğer, \"Taklit\" sebebiyle şikayet etmeni ve kötü yorum yazmanı öneriyoruz.\n\nUygulamalarımıza en sağlıklı şekilde sadece [resmi sitemizden](https://vancedapp.com) ulaşabilirsin)."
+    },
+    {
+      "title": "Vanced neden ana ekranda veya uygulama menüsünde gözükmüyor?",
+      "description": "Bunu okuyorsan, muhtemelen Vanced Manager'ı kullanmıyorsundur veya Vanced'ı resmi olmayan bir kaynaktan yüklemişsindir.\nVanced Manager'ı kullan lütfen!\n\nAşağıdaki kaynaklardan Vanced Manager'ı güvenli biçimde indirebilirsin:\n- Resmi sitesinden <https://vancedapp.com>\n- [GitHub deposundan](https://github.com/YTVanced/VancedManager/releases/latest)"
+    },
+    {
+      "title": "Videolar neden oynamıyor?",
+      "description": "Uygulamayı veya cihazını yeniden başlatmayı deneyebilirsin. Ayrıca internet bağlantısından kaynaklanan bir sorun da yaşıyor olabilirsin."
+    },
+    {
+      "title": "Neden 480p'den fazla çözünürlük yok?",
+      "description": "COVID-19 sürecinden dolayı Google, bazı ülkelerde kısıtlamalar yapıyor. Sunucu kaynaklı bir sorun olduğundan bu durum, Vanced kullanıcılarını olduğu gibi, normal YouTube kullanıcılarını da etkiliyor.",
+      "fields": [
+        {
+          "title": "Geçici çözümler:",
+          "content": "1. Farklı ülkeye bağlı VPN kullanabilirsin.\n2. [Web sitesini](https://youtube.com) kullanabilirsin.\n3. Mâlum, 480p kısıtlaması sadece telefonları etkilediğinden, uygulamaya içerisinden cihazın marka ve model bilgisini değiştirerek, YouTube'un cihazını tablet gibi tanımasını/görmesini sağlayabilir ve kısıtlamadan kurtulabilirsin.\n\n#### Cihaz modeli nasıl değiştirilir?\n1. YouTube Vanced'ı aç,\n2. Ayarlara gir,\n3. Vanced ayarlarına dokun,\n4. Gizli ayarları etkinleştir:\n  - Sayfanın sonundaki `Hakkında` kısmına \"Gizli ayarlar etkinleştirildi\" yazısını görene kadar hızlıca dokun.\n5. `Çözücü(codec) ayarları`'na gir,\n6. Cihaz markasını `Samsung` ve modelini `SM-T865` olarak ayarla\n7. Uygulamayı yeniden başlat.\n\nYeniden başlattıktan sonra, 480p kısıtlaması ortadan kalkmış olması gerekiyor."
+        }
+      ]
+    },
+    {
+      "title": "MicroG bildirimleri nasıl gizlenir?",
+      "description": "MicroG bildirimlerini kapatmak için,\n\n1. Batarya optimizasyonu kısıtlamasını, uygulama ayarlarından kapatabilir ve cihazını yeniden başlatabilirsin.\n\n2. Kısıtlamayı kaldırıp, yeniden başlattıktan sonra microG bildirimi halen gözükmeye devam ediyorsa, bildirimin üzerine basılı tutarak bildirim ayarlarını açıp, microG için bildirimleri tamamen kapatabilirsin.\n\n> Uygulamaya özel bildirimleri gizleme yolları, Android ve cihaz arayüz yapısına göre farklılıklar gösterebilir. Nasıl yapılacağını bilmiyorsan, Google'da arama yaparak bildirimlerin nasıl gizlenebileceğini araştırabilirsin."
+    },
+    {
+      "title": "1440p video çözünürlüğü, 1080p ekranda güzel gözükür mü?",
+      "description": "Evet, ama video çerçeve oranı 18:9, 21:9, ... ise gözükür. Ayarlar > Genel kısmından `Meraklısı için istatistikleri` etkinleştirebilirsin.\n\nYüksek çözünürlükleri etkinleştirmek içinse, Vanced ayarları > Video ayarları kısmından `Maksimum çözünürlük` ayarını etkinleştirebilirsin."
+    }
+  ]
+}

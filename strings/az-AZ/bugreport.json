@@ -1,0 +1,22 @@
+{
+  "data": [
+    {
+      "title": "Xətalar necə bildirilir?",
+      "description": "[Github Issue Center](https://github.com/YTVanced/Vanced#vanced-issue-center)-də yeni qeyd yaradaraq xətaları göndərər bilərsiniz.\n\nYeni qeyd yaratmazdan əvvəl problemin mövcud qeydlər arasında olub-olmadığını yoxladığınıza əmin olun!",
+      "fields": [
+        {
+          "title": "Göndərdiyim xəta nə vaxt nəzərdən keçiriləcək?",
+          "content": "Tərtibatçılar vaxtlarını yeni özəlliklər hazırlamağa və bir çox xətaları aradan qaldırmağa xərcləyir və bunların hər birinə baxmaq bir az vaxt aparır. \nOna görə də səbrlə gözləməyinizi istəyirik. Mümkün olan ən qısa vaxtda göndərdiyiniz xəta nəzərdən keçiriləcək."
+        },
+        {
+          "title": "Logcat-ı necə alınır?",
+          "content": "Root istifadə etməyənlər üçün:\n`logcat` çıxışı almaq üçün kompüterə ehtiyacınız var. Necə edəcəyinizə dair məlumatı [burada](https://github.com/YTVanced/Vanced#creating-a-logcat-using-the-android-debug-bridge-adb-on-your-pc), videolu izahı isə [burada](https://youtu.be/ICLpwgsJJP0) tapa bilərsiniz.\n\nRoot istifadə edənlər üçün:\nKompüterə ehtiyacınız yoxdur, zəhmət olmasa [buradakı](https://github.com/YTVanced/Vanced#creating-a-logcat-using-termux-on-your-rooted-android) təlimatları izləyin."
+        },
+        {
+          "title": "İnterfeyslə əlaqəli xəta tapdınız?",
+          "content": "İnterfeyslə əlaqəli xətalar üçün əlavə addımlar atmalısınız.\n\nZəhmət olmasa [Developer Assistant](https://play.google.com/store/apps/details?id=com.appsisle.developerassistant) tətbiqini endirib quraşdırın.\nDaha sonra Vanced-i açın və xətanın ekranda yenidən görünməsini təmin edin, sonra Developer Assistant vasitəsilə Layout viewer-i açın.\n\nİndi bu addımları izləyin:\n1. Xətanın ekranda göründüyünə əmin olun.\n2. Bildirəcəyiniz xəta ilə əlaqəli elementə toxunun.\n3. `Element` və `Hierarchy` vərəqlərinə gedin və ekranda görünən nəticənin ekran şəklini çəkin.\n4. Problemi bildirərkən bu ekran şəklini əlavə edin."
+        }
+      ]
+    }
+  ]
+}

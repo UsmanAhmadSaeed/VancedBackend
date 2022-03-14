@@ -1,0 +1,22 @@
+{
+  "data": [
+    {
+      "title": "Hogyan jelentse a hibákat?",
+      "description": "Hibákat a [GitHub hibakövető] használatával tud jelenteni. (https://github.com/YTVanced/Vanced#vanced-issue-center)\n\nKérjük győződjön meg róla, hogy hogy jelentették-e már a hibát, mielőtt jelentené nekünk!",
+      "fields": [
+        {
+          "title": "Mikor lesz a jelentett hiba felülvizsgálva?",
+          "content": "A fejlesztők a szabadidejüket beosztva próbálják az új funkciókat megalkotni és a kijavítani a meglévő hibákat, mind a kettő időbe telhet.\nSzóval neked csak várni kell. A jelentésed meg lesz tekintve és ki lesz vizsgálva olyan gyorsan ahogy csak lehetséges."
+        },
+        {
+          "title": "Hogyan tudok logcat-et készíteni?",
+          "content": "Nem rootolt eszközhöz:\nSzükséged lesz egy PC-re a `logcat` kimenetek megtekintéséhez. Ehhez itt egy [szöveges útmutató](https://github.com/YTVanced/Vanced#creating-a-logcat-using-the-android-debug-bridge-adb-on-your-pc) and a [video guide](https://youtu.be/ICLpwgsJJP0).\n\nRootolt eszközhöz:\nNincs szükséged külön PC-re ehhez, kérjük, hogy kövesd [az utasításokat](https://github.com/YTVanced/Vanced#creating-a-logcat-using-termux-on-your-rooted-android)."
+        },
+        {
+          "title": "Az általad tapasztalt hiba a felhasználói felülettel kapcsolatos?",
+          "content": "A felhasználói felülethez kapcsolódó hibák esetén további lépéseket kell tenned.\n\nKérjük, hogy telepítsd a [Developer Assistant](https://play.google.com/store/apps/details?id=com.appsisle.developerassistant) alkalmazást.\nEzután nyisd meg a Vanced-et és reprodukáld a hibát, majd nyisd meg a Layout viewer-t a Developer Assistant aktiválásával.\n\nEkkor kövesd ezeket a lépéseket:\n1. Ellenőrizd, hogy a hiba megjelenik-e a képernyőn.\n2. Érintsd meg azt az elemet, amelyről úgy gondolod, hogy érintett a hibával.\n3. Menj az `Elem` és a `Hierarchia` fülekre, és készíts róluk képernyőképeket.\n4. Mellékeld ezeket a képernyőképeket a bejelentésedhez."
+        }
+      ]
+    }
+  ]
+}

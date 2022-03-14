@@ -1,0 +1,32 @@
+{
+  "data": [
+    {
+      "title": "Vanced",
+      "description": "YouTube Vanced armanc dike ku bibe versiyoneke baştir ya YouTube. Di nav de astengkirina reklamê, tema reş û gelek zêdetir jî hene. Rêveberê Vanced bikar bînin da ku YouTube Vanced bi hêsanî saz bikin."
+    },
+    {
+      "title": "YouTube Music Vanced",
+      "description": "YouTube Music Vanced xwedî heman armanca YouTube Vanced e, lê ev sepan balê dikişîne ser YouTube Music. Ev ji hêla Vancedê ve kêmtir-dewlemend e, lê dîsa jî gelek tiştên ku hûn hêvî dikin ku wekî astengkirina reklamê û paşvebirina paşîn, hemî di hundurê YouTube Music Vanced de hêvî dike!"
+    },
+    {
+      "title": "YouTube taybetmendiyên sereke yên vanced",
+      "description": "- OLED dostane tema reş û tema tarî _(aka tarî gewr)_ ji bilî tema spî.\n- Hemû reklaman asteng dike\n- Destûrê dide ku tu vîdeoyan li paşrû yan jî di moda Wêneyê di wêneyê de (PiP) de lêbidî (tenê li ser Android 8+)\n- Kontrolên swipe dihêle ku hûn ronahiyê û mezinahiyê bi jstên jor-jêr (bi pêveka mîhengker) kontrol bikin.\n- Taybetmendiya dubarekirina bixweber dihêle ku tu vîdeoyan dubare bikî.\n- Rêkûpêkiya mînî-lîstikvan şîrove/tabletê dikare li versiyonên tabletê yên ku gelekî dişibin versiyona kevn (lê hinekî şaş e) were vegûhastin."
+    },
+    {
+      "title": "Xwemalîkirin",
+      "description": "- Destûrê dide ku hûn vebijarkên Codec ên wekî zorê kirina H264 ji bo cîhazên kevin an VP9, ev jî dihêle ku hûn bi zora lêdana HDR an jî 60fps vemirandin eger hûn ezmûnek sînemayî tercîh bikin. (Veavakirina mîhengên xwerû yên ji bo van taybetmendiyan vesaz dike dikare li ser me bibîne [Servera Dîscord](https://discord.gg/Vanced) or XDA)\n- Ji bo vê lêdaneke tûja 4k ya li ser her cîhazê, bi qasî ku tu dixwazî bilind an jî kêm bizorê bide çareseriya ekrana xwe. Di heman demê de dihêle ku hûn leza lêdanê ya pêşdebirkê li her derê di navbera 0.25x-2x de biguherînin (bi texmîna ku cîhaza we bi hêz e)\n- Destûrê dide ku hûn reklamên malê, piraniya reklamên UI, reklamên Mal, Postên civatê, Bilindkirina fîlimê, agahdariyê kompakt banner (wekî covid-19 info), şîroveyan bi temamî, fîlimê kompakt, rakirina refa fîlimê û gelek ên din!"
+    },
+    {
+      "title": "SponsorBlock",
+      "description": "- Taybetmendiya jêbirina beşên sponsor (cihê ku [YouTuber](https://en.wikipedia.org/wiki/YouTuber) di nîvê vîdeoyekê de xizmetek an berhemekê reklam dike)\n- Ew jî piştgîrîya kêmkirina kategoriyên din dike, wek entro, outros û xwebirêvebirina xwe.\n- API bi kar tîne [li vir hatiye dîtin](https://sponsor.ajay.app). Hûn dikarin zêdetir agahiyan li ser çawanîya kar bibînin\n- Di heman demê de dihêle ku hûn beşên xwe ji API-yê re radest bikin û tevkariyê li civaka berfireh bikin\n- Kontrolkirina temam li ser ka gelo bixweber kategoriya beşan binivîse an jî bişkojka ji bo jêbirinê nîşan bide, an jî tenê tenê jê neçe.\n- Li gorî kategoriya wê ya di dema lêdanê de, beşê bi rengê taybet ronî dike."
+    },
+    {
+      "title": "Platforman",
+      "description": "Sepanan tenê ji bo cîhazên Androidê hene û di vê demê de plan tune ku piştgirî bidin platformên din"
+    },
+    {
+      "title": "Cudahiya di navbera Root û Ne-Root de",
+      "description": "#### Root:\nGuhertoya root ya Vanced bi awayekî bêserûber li şûna sepan youTube ya fermî ye. Di encamê de, hûn dikarin rasterast girêdanên YouTube vekin an jî bi rêya sepan vanced modkirin Google Assistant bi wan re telefon bikin.\n\n# ### Non-Root:\n- Eger cîhazeke we ya ku koka wê zehmet e hebe, an jî hûn naxwazin di serî de cîhaza xwe ya rojane kok bikin, divê hûn ji bo varyanta ne-root hilbijêrin.\n- Ji ber ku navê pakêtê ya varyanta ne-root ji ya stock YouTube app cuda ye, ew dikarin bi hev re hebin. Bala xwe bidinê ku hûn hewce ne ku saziyek hevalek din saz bikin (Vanced microG) da ku bikaribin bi hesabê xwe yê YouTube/Google têxe hundir.\n- Wekî din, divê tu vanced bi destî ji bo vekirina girêdanên YouTube wekî sepan bixweber binav bikî.\n- Lêbelê, guhertoya ne-root ji bo sazkirin û karanîna pir hêsan tir e, ji ber vê yekê em pêşniyar dikin ku hûn bi guhertoya ne-root re bisekinin heya ku hûn bi rastî hewce ne ku hûn li ser telefona xwe ya embar YouTube biguherînin."
+    }
+  ]
+}

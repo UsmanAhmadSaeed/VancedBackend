@@ -1,0 +1,120 @@
+{
+  "data": [
+    {
+      "title": "Čo je YouTube Vanced?",
+      "description": "YouTube Vanced je upravená verzia služby YouTube s ďalšími funkciami, vďaka ktorým bude váš zážitok z YouTube lepší!\n\nMedzi tieto vlastnosti patrí:\n- Prehrávanie na pozadí,\n- Obraz v obraze (PiP),\n- Čierna téma (priateľská k OLED),\n- Odstránenie reklám (vyžaduje povolenie),\n- Prepísanie maximálneho rozlíšenia (umožňuje prehrávanie videa s rozlíšením vyšším, než má vaša obrazovka),\n- ...a oveľa viac!\n\nĎalšie informácie nájdete na <https://vancedapp.com>"
+    },
+    {
+      "title": "Kde je tlačidlo Stiahnuť?",
+      "description": "Google samozrejme nedovolí, aby sa v ich obchode nachádzala upravená verzia jeho vlastnej aplikácie, takže ju v obchode Google Play nehľadajte, ide len o falošné aplikácie.\n\nVanced aplikácie je možné stiahnuť a nainštalovať pomocou aplikácie Vanced Manager, ktorú nájdete na našej oficiálnej webovej stránke: <https://vancedapp.com>, ale môžete si ich tiež stiahnuť z [GitHub repo](https://github.com/YTVanced/VancedManager/releases/latest)."
+    },
+    {
+      "title": "Bude sa YouTube Vanced automaticky aktualizovať?",
+      "description": "Nie, nebude.\n\nVanced Manager vám pošle upozornenie, keď bude nejaká k dispozícii.\n\nMôžete sa tiež pripojiť k nášmu [Discord Server](https://discord.gg/Vanced) alebo sledovať [Telegram kanál](https://t.me/Vanced), kde nájdete aj najnovšie správy a oznámenia o aktualizáciách."
+    },
+    {
+      "title": "Môže Vanced sťahovať videá?",
+      "description": "Vanced neobsahuje žiadnu funkciu sťahovania videa a nikdy nebude.\n\nMnoho videí je k dispozícii na stiahnutie zadarmo vo [vybraných krajinách](https://support.google.com/youtube/answer/6141269). Pre zvyšok sveta si prosím zakúpte YouTube Premium.\n\nZnovu, Vanced NIKDY nepridá do aplikácie funkciu sťahovania videa ani nič podobné.\n\nTo bol v minulosti dôvod ukončenia mnohých modifikácií YouTube, pretože Google nemá rád ľudí, ktorí si zo svojej platformy sťahujú obsah chránený autorskými právami, takže o to nežiadajte!!!"
+    },
+    {
+      "title": "Prečo nefungujú gestá potiahnutia prstom?",
+      "description": "Ak máte komentáre zobrazené v dolnej časti (na starom mieste) v Nastavenia Vanced > Nastavenia rozloženia, deaktivujte ich a reštartujte aplikáciu. Ak to nepomôže, vynútene zastavte aplikáciu a vymažte jej údaje."
+    },
+    {
+      "title": "Titulky nie sú k dispozícii?",
+      "description": "Nejde o problém týkajúci sa Vanced alebo YouTube. Nie všetky videá obsahujú titulky."
+    },
+    {
+      "title": "Prijímate dary?",
+      "description": "NEPRIJÍMAME žiadne dary!\n\nAkýkoľvek druh daru za akýchkoľvek okolností a akékoľvek stránky, odkazy alebo príspevky, ktoré o dary žiadajú, sú jednoducho falošné.\n\nAk však chcete podporiť vývojárov Vanced, môžete si stiahnuť program Brave pomocou [tohto odkazu](https://brave.com/kev231) a AdGuard pomocou [tohto odkazu](https://adguard.com/en/welcome.html?aid=31141)."
+    },
+    {
+      "title": "Ako dosiahnuť, aby sa ovládacie prvky prehrávača automaticky skrývali?",
+      "description": "Môžete ich nakonfigurovať v aplikácii YouTube Vanced > Nastavenia > Zjednodušenie ovládania. Ak sa nastavenia neotvoria alebo nefungujú, prejdite do nastavení zjednodušenia ovládania vášho zariadenia a deaktivujte zosilňovač zvuku, prepnite prístup, živé titulky."
+    },
+    {
+      "title": "Prečo používať split APKs?",
+      "description": "Pretože:\n\n1. Je to používané originálnou aplikáciou, takže to používa aj Vanced.\n2. Inštaluje to iba vami určené jazyky, aby sa znížila spotreba úložiska.\n3. Má iba jedinú verziu základného súboru APK, ktorú vaše zariadenie vyžaduje.\n\nVanced Manager alebo vývojári ho samozrejme môžu konvertovať na normálny, jediný súbor APK, ale sme leniví to spraviť. Musíte byť spokojný s tým, čo máme...\n\nNerobte si však starosti, Vanced Manager urobí za vás všetku tvrdú prácu, takže stačí iba klepnúť na tlačidlo `Inštalovať`."
+    },
+    {
+      "title": "Prečo farba na úvodnej obrazovke nezodpovedá farbe témy? ",
+      "description": "Farba pozadia úvodnej obrazovky je prevzatá z farby systému Android, aby sa zabezpečilo, že sa bude meniť podľa témy systému. Môžete použiť [Substratum](https://play.google.com/store/apps/details?id=projekt.substratum) alebo [Swift Installer](https://play.google.com/store/apps/details?id=com.brit.swiftinstaller) či podobnú aplikáciu na zmenu farby."
+    },
+    {
+      "title": "Mám si znova stiahnuť inštalačné súbory?",
+      "description": "Súbory môžu byť poškodené z rôznych dôvodov a neskôr môžu spôsobovať problémy. Ak tomu chcete zabrániť, môžete sa rozhodnúť ich znovu stiahnuť, aby ste zabezpečili bezproblémovú inštaláciu."
+    },
+    {
+      "title": "Prečo nemá root verzia oprávnenie prístupu k mikrofónu? ",
+      "description": "Má, ak je váš Vanced aktuálny."
+    },
+    {
+      "title": "Čo je ExoPlayer v1?",
+      "description": "Je to staršia verzia súčasného prehrávača médií, ktorý používa YouTube. Pri jeho používaní môžete dosiahnuť lepší výkon a stabilitu."
+    },
+    {
+      "title": "Ako povoliť skryté nastavenia?",
+      "description": "Vo Vanced nastaveniach 6-7 krát ťuknite na sekciu `O aplikácii`. Povolia sa tým iba ďalšie nastavenia video kodeku."
+    },
+    {
+      "title": "Ako nastaviť YouTube Vanced ako predvolenú aplikáciu?",
+      "description": "Ako hovorí nadpis, veľa používateľov sa mnohokrát pýta, ako môžu nastaviť YouTube Vanced ako predvolený pri otváraní YouTube odkazov z iných aplikácií (ako sú prehliadače, aplikácie na odosielanie správ a iné aplikácie).\n\nPoužívatelia s root sa nemusia báť, pretože YouTube Vanced je predvolený ihneď po nahradení pôvodnej YouTube aplikácie.\n\nPre používateľov s non-root je riešenie rozdelené na OneUI, MIUI a ostatných. Nemôžeme poskytovať riešenia pre každý OS osobitne, preto si budete musieť riešenie vyhľadať sami prostredníctvom Google.",
+      "fields": [
+        {
+          "title": "Používatelia OneUI:",
+          "content": "1. Ťuknite a podržte ikonku YouTube alebo YouTube Vanced vo vašom menu aplikácií\n2. Ťuknite na **O aplikácii**\n3. Nájdite \"**Nastaviť ako predvolené**\" a ťuknite naň\n4. Ťuknite na \"**Otvoriť podporované odkazy**\" a zvoľte \"**Otvárať v tejto aplikácii**\"\n\nV starších verziách OneUI môže byť názov možnosti v 4. kroku trochu odlišný. V tom prípade budete musieť ťuknúť na \"**Prejsť na podporované odkazy**\" a vybrať možnosť \"**V tejto aplikácii**\".\nVo veľmi starých verziách OneUI 💩, budete možno musieť ísť do **Nastavenia** > **Aplikácie** > *[ťuknúť na tri bodky v pravom hornom rohu]* > **Predvolené aplikácie**> **Nastaviť ako predvolené**. Po načítaní aplikácie nájdite YouTube Vanced alebo YouTube a pokračujte krokom č. 4..."
+        },
+        {
+          "title": "Používatelia MIUI:",
+          "content": "1. Otvorte nastavenia\n2. Prejdite na **aplikácie**,\n3. **Správa aplikácii**,\n4. Potom ťuknite na tri bodky v pravom rohu,\n5. **Predvolené aplikácie**\n6. **Otváranie odkazy**.\n7. Počkajte, kým sa načítajú všetky aplikácie…\n8. Nájdite YouTube alebo YouTube Vanced a ťuknite naň.\n9. Ťuknite na \"**Otvárať podporované odkazy**\" a vyberte \"**Otvárať**\""
+        },
+        {
+          "title": "Používatelia AOSP a ostatných UI (OOS, ColorOS, EMUI, atď..):",
+          "content": "1. Otvorte **Nastavenia**\n2. Prejdite na **Aplikácie**\n3. Ťuknite na **Predvolené aplikácie**\n4. Nájdite **YouTube** alebo **YouTube Vanced**\n9. Ťuknite na \"**Otvárať podporované odkazy**\" a vyberte možnosť \"**Otvárať v tejto aplikácii**\"\n\nAk máte stále problémy, možno budete musieť vyhľadať niektoré články/videá, \"ako na to\" na [Google](https://www.google.com/search?q=%22android%22+how+to+open+youtube+links+with+youtube) alebo môžete nainštalovať aplikáciu tretej strany z [Obchodu Play](https://play.google.com/store/search?q=open%20with), ktorá vám pomôže vyriešiť tento problém…"
+        }
+      ]
+    },
+    {
+      "title": "Prečo root verzia nefunguje spolu s microG core? ",
+      "description": "1. Aby ste mohli spustiť Vanced, musíte mať aspoň [pico](https://github.com/opengapps/opengapps/wiki/Pico-Package) verziu GApps.\n\n2. Vanced s microG Core nie je možné spustiť bez Google Play Services Framework, ktorý je k dispozícii vo všetkých balíkoch GApps. Táto knižnica je vyžadovaná.\n\n3. Ak sa obávate o svoje súkromie a nechcete používať GApps, ale stále chcete pozerať YouTube bez reklám, potom je vždy k dispozícii [webová verzia](https://youtube.com)."
+    },
+    {
+      "title": "Prečo nefunguje prenášanie videí?",
+      "description": "Pre používateľov s verziou 16.16.38 a vyššou pre obe root a non-root varianty, ktorí používajú ROM založenú na microG, je v upstreame microG chyba. Kým sa nevyrieši, počkajte prosím na aktualizáciu alebo sa vráťte k verzii v15. Pokiaľ používate služby Google Play s root variantom, nebudete mať žiadne problémy s prenášaním."
+    },
+    {
+      "title": "Čo je to podpisovanie súborov APK?",
+      "description": "Toto vidíte kvôli tomu, že nepoužívate aplikáciu Vanced Manager alebo ste si nainštalovali Vanced z neoficiálneho zdroja.\nStačí použiť Vanced Manager!\n\nVanced Manager si môžete bezpečne stiahnuť z:\n- [Oficiálnej stránky](https://vancedapp.com)\n- [GitHub repozitára](https://github.com/YTVanced/VancedManager/releases/latest)"
+    },
+    {
+      "title": "Je YouTube Vanced dostupný v Obchode Play?",
+      "description": "NIE!\nZnova, NEINŠTALUJTE ani sa nepokúšajte vyhľadávať falošné aplikácie s názvom „YouTube Vanced“ alebo podobné v Obchode Play alebo v iných obchodoch s aplikáciami, aby ste si aplikáciu Vanced nainštalovali.\n\nMáme iba [Vanced Sprievodcu](https://play.google.com/store/apps/details?id=com.vanced.faq), čo je jediná oficiálna aplikácia zverejnená v Obchode Play.\n\nAk nájdete inú aplikáciu s našou ikonou a menom, nahláste ju ako odcudzenie identity a zanechajte zlé hodnotenie.\n\nNaše aplikácie nájdete iba na [oficiálnej stránke](https://vancedapp.com)."
+    },
+    {
+      "title": "Prečo sa Vanced nezobrazuje na domovskej obrazovke alebo v zozname aplikácií?",
+      "description": "Toto vidíte kvôli tomu, že nepoužívate aplikáciu Vanced Manager alebo ste si nainštalovali Vanced z neoficiálneho zdroja.\nStačí použiť Vanced Manager!\n\nVanced Manager si môžete bezpečne stiahnuť z:\n- Oficiálnej stránky <https://vancedapp.com>\n- [GitHub repozitára](https://github.com/YTVanced/VancedManager/releases/latest)"
+    },
+    {
+      "title": "Prečo sa videá neprehrávajú?",
+      "description": "Skúste aplikáciu reštartovať. Môže to byť tiež z dôvodu vášho internetového pripojenia alebo vaším zariadením."
+    },
+    {
+      "title": "Prečo mám limit 480p?",
+      "description": "Kvôli COVID-19, Google obmedzuje využitie dát vo viacerých krajinách. Deje sa to na serveri a ovplyvňuje to rovnako ako používateľov Vanced, tak aj používateľov originálnej aplikácie YouTube.",
+      "fields": [
+        {
+          "title": "Dočasné riešenia:",
+          "content": "1. Pripojte sa k VPN sieti inej oblasti.\n2. Použite [webovú verziu](https://youtube.com)\n3. Vzhľadom k tomu, že obmedzenie 480p je iba pre telefóny a nie tablety, môžete zmeniť typ zariadenia v aplikácii YouTube Vanced a obísť tak obmedzenie.\n\n#### Ako zmeniť typ zariadenia?\n1. Otvorte YouTube Vanced.\n2. Prejdite do Nastavení\n3. Ťuknite na `Nastavenia Vanced`\n4. Povoľte skryté nastavenia:\n  - Choďte nadol a stláčajte tlačidlo „O aplikácii“, kým sa nezobrazí správa „Skryté nastavenia boli povolené“.\n5. Prejdite na `Prepísať kodek`\n6. Nastavte výrobcu na `Samsung` a model na` SM-T865`.\n7. Reštartujte aplikáciu.\n\nPo reštartovaní by mal byť limit 480p preč."
+        }
+      ]
+    },
+    {
+      "title": "Ako skryť upozornenie microG?",
+      "description": "Ak chcete upozornenie microG skryť,\n\n1. Je potrebné deaktivovať optimalizáciu batérie pre microG a reštartovať zariadenie.\n\n2. Ak metóda vyššie nefunguje, deaktivujte upozornenie microG podržaním tohto upozornenia, kde ho následne vypnite a ťuknite na Uložiť.\n\n> Zakázanie upozornení aplikácií je možné vykonať rôznymi spôsobmi v závislosti od používateľského rozhrania systému Android. Ak neviete, ako upozornenie vypnúť na vašom zariadení, skúste použiť Google a nájsť riešenie."
+    },
+    {
+      "title": "Vyzerá rozlíšenie 1440p lepšie na mojej obrazovke s rozlíšením 1080p?",
+      "description": "Áno, ale iba v prípade, že video je v pomere strán 18:9, 21:9, ... Môžete povoliť `Štatistiky pre expertov` v časti Nastavenia > Všeobecné na potvrdenie.\n\nAk chcete povoliť vyššie rozlíšenie, prejdite do časti Nastavenia Vanced > Nastavenia videa, zapnite „Maximálne rozlíšenie“ a reštartujte aplikáciu."
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "categories": [
+    {
+      "category": "Hibajelentés",
+      "json": "bugreport.json"
+    },
+    {
+      "category": "GYIK",
+      "json": "faq.json"
+    },
+    {
+      "category": "Funkciók",
+      "json": "features.json"
+    },
+    {
+      "category": "Hibaelhárítás",
+      "json": "troubleshooting.json"
+    }
+  ]
+}

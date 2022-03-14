@@ -1,0 +1,22 @@
+{
+  "data": [
+    {
+      "title": "Çawa çewtiyên rapor bikin?",
+      "description": "Hûn dikarin pirsgirêkên li ser [Navenda Weşanxaneya Github] (https://github.com/YTVanced/Vanced#vanced-issue-center) biafirînin.\n\nJi bo kontrolkirina pirsgirêkên heyî binihêrin ka pirsgirêka we beriya vekirina pirsgirêka we hatiye ragihandin an na!",
+      "fields": [
+        {
+          "title": "Meseleya min wê kengî bê lêkolînkirin?",
+          "content": "Pêşdebiran dema xwe ji bo afirandina taybetmendiyên nû û gelek pirsgirêkan çareser dikin û her yek dikare demek dirêj bike ku bidawî bibe. \nDivê hûn tenê li benda xwe bisekinin. Meseleya we wê di demeke nêz de bê nirxandin."
+        },
+        {
+          "title": "Ez ê çawa logcat bigirim?",
+          "content": "For non-root users:\nYou will need a PC to take `logcat` outputs. Here is a [text guide](https://github.com/YTVanced/Vanced#creating-a-logcat-using-the-android-debug-bridge-adb-on-your-pc) and a [video guide](https://youtu.be/ICLpwgsJJP0).\n\nFor root users:\nYou don't need a PC for this, please follow [the instructions](https://github.com/YTVanced/Vanced#creating-a-logcat-using-termux-on-your-rooted-android)."
+        },
+        {
+          "title": "Çewtiyên te bi UI re têkildar e?",
+          "content": "Ji bo çewtiyên têkildarî UI, hûn ê gavên zêde bavêjin.\n\nJi kerema xwe saz bike û saz bike [Arîkarê Pêşdebir](https://play.google.com/store/apps/details?id=com.appsisle.developerassistant).\nPiştî wê, here Vanced û çewtiyek nûve bike, paşê temaşevanê Layout bi tetbîqkirina Pêşvebirê Asîstan veke.\n\nNiha jî van gavan bişopînin:\n1. Em bawer bin ku kêzik di ekranê de tê nîşandan.\n2. Li ser hêmana ku hûn difikirin ku ji hêla kêzikê ve tê tesîr kirin.\n3. Biçe ser tabên 'Element' û 'Hiyerarşî' û deran dîmenderan.\n4. Di mijara xwe de van dîmenan binivîse."
+        }
+      ]
+    }
+  ]
+}

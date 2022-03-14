@@ -1,0 +1,120 @@
+{
+  "data": [
+    {
+      "title": "YouTube vanced क्या है?",
+      "description": "YouTube Vanced अपने YouTube अनुभव को बेहतर बनाने के लिए अतिरिक्त सुविधाओं के साथ YouTube का संशोधित संस्करण है!\n\nऐसी विशेषताओं में शामिल हैं:\n- पृष्ठभूमि प्लेबैक,\n- पिक्चर इन पिक्चर (PiP),\n- ब्लैक थीम (OLED के अनुकूल),\n- विज्ञापन निकालना (सक्षम करने की आवश्यकता),\n- ओवरराइड अधिकतम रिज़ॉल्यूशन (अपनी स्क्रीन से अधिक रिज़ॉल्यूशन वाले वीडियो के प्लेबैक की अनुमति दें),\n- ...और भी बहुत कुछ!\n\nअधिक जानकारी के लिए जाएं:\n<https://vancedapp.com>"
+    },
+    {
+      "title": "डाउनलोड बटन कहां है?",
+      "description": "बेशक, Google अपने स्वयं के ऐप के संशोधित संस्करण को उनके स्टोर पर नहीं होने देगा, इसलिए Google Play Store पर इसे न देखें जो कि नकली ऐप हैं।\n\nVanced Manager का उपयोग करके Vanced एप्स को डाउनलोड और इंस्टॉल किया जा सकता है जो हमारी आधिकारिक वेबसाइट पर पाया जा सकता है: <https://vancedapp.com> लेकिन आप इसे [GitHub repo] (https://github.com/YTVanced/VancedManager/releases/latest) से भी ले सकते हैं।"
+    },
+    {
+      "title": "क्या YouTube Vanced ऑटो अपडेट करता है?",
+      "description": "नहीं, यह नहीं करता।\n\nजब कोई एक होता है तो Vanced Manager आपको एक सूचना भेजेगा।\n\nआप हमारे [Discord Server] (https://discord.gg/Vanced) से भी जुड़ सकते हैं या लेटेस्ट खबरों और अपडेट नोटिफिकेशन के लिए [Telegram चैनल] (https://t.me/Vanced) को फॉलो कर सकते हैं।"
+    },
+    {
+      "title": "क्या Vanced वीडियो डाउनलोड कर सकता है?",
+      "description": "Vanced में कोई भी वीडियो डाउनलोडिंग फीचर शामिल नहीं है और न ही कभी होगा।\n\n[चयनित देशों] (https://support.google.com/youtube/answer/6141269) में मुफ्त में डाउनलोड करने के लिए कई वीडियो उपलब्ध हैं। शेष दुनिया के लिए, कृपया YouTube प्रीमियम प्राप्त करें।\n\nफिर से, Vanced कभी भी एक वीडियो डाउनलोडर या ऐसा कुछ ऐप में नही जोड़ेगा।\n\nयह अतीत में कई YouTube mods के बंद होने का कारण रहा है क्योंकि Google को लोग अपने प्लेटफ़ॉर्म से कॉपीराइट की गई सामग्री डाउनलोड करना पसंद नहीं करते हैं, इसलिए इसके लिए न कहें!!!"
+    },
+    {
+      "title": "स्वाइप जेस्चर काम क्यों नहीं करते?",
+      "description": "यदि आपके पास Vanced सेटिंग्स> लेआउट सेटिंग्स में सबसे नीचे (पुरानी जगह) पर दिखाई गई टिप्पणियां हैं, तो उसे अक्षम करें और एप्लिकेशन को पुनरारंभ करें। यदि वह काम नहीं करता है, तो एप्लिकेशन को बंद करें और उसका डेटा साफ़ करें।"
+    },
+    {
+      "title": "कैप्शन उपलब्ध नहीं हैं?",
+      "description": "यह एक Vanced या YouTube से संबंधित समस्या नहीं है। सभी वीडियो में कैप्शन नहीं है।"
+    },
+    {
+      "title": "क्या आप दान लेते हैं?",
+      "description": "हम दान स्वीकार नहीं करते हैं!\n\nकिसी भी परिस्थिति में किसी भी प्रकार के दान और किसी भी साइट या लिंक या पोस्ट जो दान के लिए पूछते हैं, बस नकली हैं।\n\nलेकिन अगर आप Vanced Developers का समर्थन करना चाहते हैं, तो आप [इस लिंक] (https://brave.com/kev231) और AdGuard का उपयोग करके [इस लिंक] (https://adguard.com/en/welcome.html?aid=31141) का उपयोग करके Brave डाउनलोड कर सकते हैं।"
+    },
+    {
+      "title": "प्लेयर लेआउट को ऑटो-हाइड कैसे करें?",
+      "description": "आप इसे YouTube Vanced> Settings> Accessibility में कॉन्फ़िगर कर सकते हैं। यदि सेटिंग्स खोलने या काम करने में विफल रहती हैं, तो अपनी डिवाइस एक्सेसिबिलिटी सेटिंग्स पर जाएं और ध्वनि एम्पलीफायर को अक्षम करें, एक्सेस बदले करें, लाइव कैप्शन बंद करें।"
+    },
+    {
+      "title": "स्प्लिट एपीके का इस्तेमाल क्यों कर रहे हैं?",
+      "description": "चूंकि:\n\n1. स्टॉक ऐप इसका उपयोग करता है इसलिए Vanced इसका भी उपयोग करता है।\n2. यह केवल उन भाषाओं को स्थापित करता है जिन्हें आप भंडारण की खपत को कम करने के लिए निर्दिष्ट करते हैं।\n3. इसमें कोर APK का एकमात्र संस्करण है जिसे आपके डिवाइस की आवश्यकता है।\n\nबेशक, Vanced Manager या Developers इसे एक सामान्य, एकल APK फ़ाइल में बदल सकते हैं, लेकिन हम इसे करने के लिए बहुत आलसी हैं। आपको बस हमारे साथ होने की जरूरत है...\n\nहालांकि चिंता मत करिए, Vanced Manager आपके लिए पूरी मेहनत करता है इसलिए केवल `Install` बटन पर टैप करें।"
+    },
+    {
+      "title": "स्टार्टअप स्क्रीन में रंग थीम से मेल क्यों नहीं खाता है? ",
+      "description": "स्टार्टअप स्क्रीन की पृष्ठभूमि का रंग एंड्रॉइड फ्रेमवर्क रंग से लिया गया है ताकि यह सुनिश्चित हो सके कि यह सिस्टम थीम के अनुसार बदलता है। आप [Substratum] (https://play.google.com/store/apps/details?id=projekt.substratum) या [Swift Installer] (https://play.google.com/store/apps/details?id=com.brit.swiftinstaller) का उपयोग कर सकते हैं।"
+    },
+    {
+      "title": "क्या मुझे स्थापना फ़ाइलों को फिर से डाउनलोड करना चाहिए?",
+      "description": "विभिन्न कारणों से फाइलें दूषित हो सकती हैं और बाद में समस्याएं पैदा कर सकती हैं। इससे बचने के लिए, आप अपनी स्थापना को सुचारू रूप से चलाने के लिए इसे फिर से डाउनलोड करना चुन सकते हैं।"
+    },
+    {
+      "title": "रूट संस्करण में माइक्रोफ़ोन अनुमतियाँ क्यों नहीं हैं? ",
+      "description": "अगर आपका Vanced अप-टू-डेट है तो यह करता है।"
+    },
+    {
+      "title": "एक्सोप्लेयर v१ क्या है?",
+      "description": "यह YouTube द्वारा उपयोग किए जाने वाले वर्तमान मीडिया प्लेयर का एक पुराना संस्करण है। इसका उपयोग करते समय आपको बेहतर प्रदर्शन और स्थिरता मिल सकती है।"
+    },
+    {
+      "title": "छिपी हुई सेटिंग्स को कैसे सक्षम करें?",
+      "description": "Vanced सेटिंग्स में, इसे सक्षम करने के लिए `About` सेक्शन पर 6-7 बार टैप करें। यह केवल अतिरिक्त वीडियो कोडेक सेटिंग्स को सक्षम करता है।"
+    },
+    {
+      "title": "YouTube Vanced को डिफ़ॉल्ट ऐप कैसे बनाएं?",
+      "description": "जैसा कि शीर्षक कहता है, बहुत सारे उपयोगकर्ता कई बार पूछ रहे हैं कि वे अन्य ऐप (जैसे ब्राउज़र, मैसेजिंग ऐप और कोई अन्य ऐप) से YouTube लिंक खोलने के लिए YouTube Vanced को डिफ़ॉल्ट कैसे बना सकते हैं।\n\nरूट के लिए, आपको चिंता करने की आवश्यकता नहीं है क्योंकि यह पहले से ही डिफ़ॉल्ट रूप से सेट है क्योंकि आधिकारिक YouTube को YouTube vanced से बदल दिया जाता है।\n\nगैर-रूट के लिए, समाधानों को OneUI, MIUI और बाकी के बीच विभाजित किया गया है। हम हर ओएस के लिए समाधान प्रदान नहीं कर सकते हैं, और आपको इसे स्वयं Google करने की आवश्यकता हो सकती है।",
+      "fields": [
+        {
+          "title": "OneUI यूजर:",
+          "content": "1. अपने ऐप ड्रॉअर से YouTube या YouTube Vanced ऐप आइकन पर टैप करके रखें।\n2. **ऐप की जानकारी** पर टैप करें।\n3. \"**डिफ़ॉल्ट के रूप में सेट करें**\" ढूंढें और इसे टैप करें\n4. \"**समर्थित लिंक खोलें**\" टैप करें और \"**इस ऐप में खोलें**\" चुनें\n\nOneUI के पुराने संस्करणों में, चौथे चरण में विकल्पों का नाम थोड़ा भिन्न हो सकता है। आपको \"**समर्थित URL पर जाएं**\" पर टैप करना होगा और \"**इस ऐप में**\" विकल्प चुनना होगा।\nOneUI के बहुत पुराने संस्करण में, आपको **सेटिंग**> **ऐप्स**> *[दाएं कोने पर तीन बिंदुओं पर टैप करें]*> **डिफ़ॉल्ट ऐप्स**> **इस रूप में सेट करें पर जाने की आवश्यकता हो सकती है चूक जाना**। ऐप्स लोड होने के बाद YouTube Vanced या YouTube ढूंढें और चौथे चरण का पालन करें..."
+        },
+        {
+          "title": "MIUI यूजर:",
+          "content": "1. सेटिंग्स खोलें\n2. **ऐप्स** पर जाएं,\n3. **ऐप्स प्रबंधित करें**,\n4. फिर, दाहिने कोने पर तीन डॉट्स पर टैप करें,\n5. **डिफ़ॉल्ट ऐप्स**,\n6. **ओपनिंग लिंक**।\n7. तब तक प्रतीक्षा करें जब तक आपके सभी ऐप्स सूचीबद्ध न हो जाएं…\n8. YouTube या YouTube Vanced ढूंढें और इसे टैप करें।\n9. \"**समर्थित लिंक खोलें**\" टैप करें और \"**ओपन**\" चुनें"
+        },
+        {
+          "title": "AOSP और अन्य कस्टम UI (OOS, ColorOS, EMUI, आदि):",
+          "content": "1. सेटिंग्स खोलें**\n2. **ऐप्स** पर जाएं\n3. **डिफ़ॉल्ट ऐप्स** पर टैप करें\n4. **YouTube** या **YouTube वेंस्ड** ढूंढें\n5. \"**समर्थित यूआरएल पर जाएं**\" पर टैप करें और \"**इस ऐप में खोलें**\" विकल्प चुनें\n\nअगर आप अभी भी इससे परेशान हैं, तो आपको [Google](https://www.google.com/search?q=%22android%22+how+to+open+youtube+links+with+youtube) या आप इस परेशानी से बचाने के लिए [Play Store](https://play.google.com/store/search?q=open%20with) से कोई तृतीय पक्ष ऐप इंस्टॉल कर सकते हैं"
+        }
+      ]
+    },
+    {
+      "title": "रूट वेरिएंट माइक्रोजी कोर के साथ काम क्यों नहीं करता है? ",
+      "description": "1. Vanced चलाने के लिए आपके पास GApps का कम से कम [pico](https://github.com/opengapps/opengapps/wiki/Pico-Package) संस्करण होना चाहिए।\n\n2. आप गूगल प्ले सर्विसेज फ्रेमवर्क के बिना माइक्रोजी कोर के साथ वैन्ड नहीं चला सकते जो सभी जीएपीपीएस पैकेज में उपलब्ध है और यह एक आवश्यक पुस्तकालय है।\n\n3. यदि आप अपनी गोपनीयता को लेकर चिंतित हैं और GApps का उपयोग नहीं करना चाहते हैं लेकिन फिर भी विज्ञापनों के बिना YouTube देखना चाहते हैं, तो [वेब संस्करण](https://youtube.com) हमेशा उपलब्ध है।"
+    },
+    {
+      "title": "कास्टिंग काम क्यों नहीं करता है?",
+      "description": "V16.16.38 और उपरोक्त सभी गैर-रूट वेरिएंट और रूट वेरिएंट वाले उपयोगकर्ताओं के लिए जो माइक्रोजी आधारित रोम का उपयोग कर रहे हैं, अपस्ट्रीम माइक्रोजी में एक बग है। जब तक इसका समाधान नहीं हो जाता, कृपया अपडेट की प्रतीक्षा करें या v15 संस्करणों में वापस रोल करें। यदि आप रूट वेरिएंट के साथ Google Play सेवाओं का उपयोग करते हैं, तो आपको कास्टिंग में कोई समस्या नहीं होगी।"
+    },
+    {
+      "title": "एपीके साइनिंग क्या है?",
+      "description": "You are reading this because you are not using Vanced Manager or you may have installed Vanced from an unofficial source.\nJust use Vanced Manager!\n\nYou can safely download Vanced Manager from:\n- [Official site](https://vancedapp.com)\n- [GitHub repository](https://github.com/YTVanced/VancedManager/releases/latest)"
+    },
+    {
+      "title": "Is YouTube Vanced on Play Store?",
+      "description": "NO!\nAgain, DO NOT install or even try to search for any fake apps named \"YouTube Vanced\" or similar on the Play Store or any app stores to install Vanced.\n\nWe only have [Vanced Guide](https://play.google.com/store/apps/details?id=com.vanced.faq), and it's the only official app published on Play Store.\n\nIf you find any other app with our icon and name, report it as impersonation and give it a bad review.\n\nOur apps can only be found at [official site](https://vancedapp.com)."
+    },
+    {
+      "title": "Why is Vanced not showing up in home screen or app drawer?",
+      "description": "You are reading this because you are not using Vanced Manager or you may have installed Vanced from an unofficial source.\nJust use Vanced Manager!\n\nYou can safely download Vanced Manager from:\n- Official site <https://vancedapp.com>\n- [GitHub repository](https://github.com/YTVanced/VancedManager/releases/latest)"
+    },
+    {
+      "title": "Why aren't videos playing?",
+      "description": "Try restarting the app. It might also because of your internet connection or your device."
+    },
+    {
+      "title": "Why am I having the 480p limit?",
+      "description": "Due to the COVID-19, Google is restricting data usage of several countries. This happens on the server and affects both Vanced and stock YouTube users.",
+      "fields": [
+        {
+          "title": "Workarounds:",
+          "content": "1. Connect to a VPN of a different region.\n2. Use the [web version](https://youtube.com)\n3. Since the 480p restriction is only for phones and not tablets, you can change the device model in YouTube Vanced to overcome the restriction.\n\n#### How to change the device model?\n1. Open YouTube Vanced.\n2. Go to Settings\n3. Tap the `Vanced Settings`\n4. Enable hidden settings:\n  - Scroll down and tap on the `About` section till you get a message saying `Hidden settings enabled`.\n5. Go to `Codec override`\n6. Set manufacturer to `Samsung` and model to `SM-T865`.\n7. Restart the app.\n\nAfter restarting, the 480p limit should be gone."
+        }
+      ]
+    },
+    {
+      "title": "How to hide the microG notification?",
+      "description": "To hide microG the notification,\n\n1. You can disable battery optimization for Vanced microG and reboot your device.\n\n2. If the above method doesn't work, disable microG notifications by holding on to the notification, toggle it off and tap Save.\n\n> Disabling app notifications can be done in different ways depending on the Android user interface. If you don't know how to disable it, try using Google for learning how to disable it."
+    },
+    {
+      "title": "Does 1440p look better on my 1080p screen?",
+      "description": "Yes, but only if the video ratio is something like 18:9, 21:9, ... You can enable `Stats for nerds` in Settings > General to confirm it.\n\nTo enable higher resolutions, go to Vanced settings > Video settings and turn on `Max resolution` then restart the app."
+    }
+  ]
+}

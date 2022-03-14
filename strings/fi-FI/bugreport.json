@@ -1,0 +1,22 @@
+{
+  "data": [
+    {
+      "title": "Miten ilmoitan bugeista?",
+      "description": "Voit ilmoittaa bugeista käyttämällä meidän [GitHub-ongelmanseurantaa](https://github.com/YTVanced/Vanced)\n\n**Muista lukea README ja tarkista, onko bugistasi jo ilmoitettu ennen raportoimista!**",
+      "fields": [
+        {
+          "title": "Milloin bugini tarkastetaan?",
+          "content": "Palautteesi tarkastetaan niin pian kuin mahdollista."
+        },
+        {
+          "title": "Miten käytän logcatia?",
+          "content": "Ei-root-käyttäjille:\nTarvitset tietokoneen ottaaksesi `logcat`-tulosteita. Tässä on [tekstiopas](https://github.com/YTVanced/Vanced#creating-a-logcat-using-the-android-debug-bridge-adb-on-your-pc) ja [video-opas](https://youtu.be/ICLpwgsJJP0).\n\nRoot-käyttäjille:\nEt tarvitse tietokonetta tähän. Seuraa [ohjeita](https://github.com/YTVanced/Vanced#creating-a-logcat-using-termux-on-your-rooted-android) kiitos."
+        },
+        {
+          "title": "Liittyykö bugisi käyttöliittymään?",
+          "content": "Käyttöliittymään liittyviä vikoja varten sinulla on lisäaskelia.\n\nAsenna ja määritä [Kehittäjäavustaja](https://play.google.com/store/apps/details?id=com. ppsisle.developerassistant).\nTämän jälkeen mene Vancediin ja jäljennä vika, sitten avaa Layout-katselin käynnistämällä Kehittäjäavustajan. \n\nSeuraa nyt näitä ohjeita:\n1. Varmista, että vika näkyy näytöllä.\n2. Napauta elementtiä, johon luulet vian vaikuttavan.\n3. Mene `Element`- ja `Hierarchy`-välilehdille ja kuvakaappaa tulostukset.\n4. Sisällytä nämä kuvakaappaukset ongelmassasi."
+        }
+      ]
+    }
+  ]
+}

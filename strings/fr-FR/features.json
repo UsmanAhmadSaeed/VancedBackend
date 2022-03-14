@@ -1,0 +1,32 @@
+{
+  "data": [
+    {
+      "title": "Vanced",
+      "description": "YouTube Vanced a pour but d'être une version améliorée de YouTube. Sont inclus un bloqueur de publicités, un thème noir et plus encore. Utilisez l'application Vanced Manager pour installer relativement facilement YouTube Vanced."
+    },
+    {
+      "title": "YouTube Music Vanced",
+      "description": "YouTube Music Vanced a le même objectif que YouTube Vanced mais cette fois-ci en se concentrant sur YouTube Music. Cette application propose relativement moins de fonctionnalités que Youtube Vanced mais propose cependant toutes les fonctionnalités que vous pouvez attendre comme le blocage de publicités ou encore la lecture en arrière-plan, tout cela dans YouTube Music Vanced !"
+    },
+    {
+      "title": "Principales fonctionnalités de YouTube Vanced",
+      "description": "- Un thème noir convenant aux écrans OLED ainsi qu'un thème sombre (aussi appelé gris foncé) en plus du thème blanc.\n- Blocage de toutes les publicités\n- Possibilité de lire des vidéos en arrière-plan ou en mode Image en Image (Picture in Picture) (uniquement sur les appareils tournant sous Android 8+)\n- Contrôles gestuelles vous permettant de gérer la luminosité et le volume en glissant de bas en haut et vice-versa (avec une marge personnalisable)\n- Fonctionnalité de répétition automatique vous permettant de lire en boucle une vidéo lors d'une répétition\n- La nouvelle organisation de l'espace de commentaires/tablette peut être basculé en mode tablette qui ressemble beaucoup à l'ancienne version (cependant, quelques bugs sont présents)."
+    },
+    {
+      "title": "Personnalisation",
+      "description": "- Permet d'ignorer les limitations des options de Codec telles que forcer le H264 sur les anciens appareils ou VP9. Cela vous permet également de forcer la lecture HDR ou de désactiver la lecture en 60fps si vous préférez une expérience cinématographique. (Des configurations personnalisées pour ces fonctionnalités peuvent être trouvées sur notre [serveur Discord](https://discord. g/Vanced) ou XDA)\n- Forcer la résolution par défaut de la vidéo à une valeur aussi haute ou aussi basse que vous le souhaitez. Vous pouvez même ignorer les limitations qu'imposent la résolution de votre écran et lire du contenu nette en 4k sur n'importe quel appareil. Il vous est également possible de changer la vitesse de lecture par défaut de x0.25 à x2 (en supposant que votre appareil soit assez puissant)\n- Vous permet d'activer/désactiver la publicité maison, la plupart des annonces de l'interface, les annonces de marchandises, les publications de la communauté, promotion de films, la petite bannière d'infos (comme les infos COVID-19), supprimer les commentaires entièrement, les films compacts, le retrait de l'étagère de films et bien plus encore !"
+    },
+    {
+      "title": "Bloc des sponsors",
+      "description": "- Fournit la possibilité de sauter les segments sponsorisés (où un(e) [YouTuber(-euse)](https://fr.wikipedia. rg/wiki/YouTuber) fait de la publicité pour un service ou un produit au milieu d'une vidéo)\n- Permet aussi de sauter d'autres catégories comme les intros, les outros et la auto-promotion.\n- Utilise l’API [trouvée ici](https://sponsor.ajay.app) Vous pouvez trouver plus d'informations sur son fonctionnement\n- Permet également de de soumettre vos propres segments à l'API et de contribuer à la communauté au sens large\n- Contrôle complet de la possibilité de sauter automatiquement une catégorie de segment ou d'afficher un bouton pour passer celle-ci, ou simplement ne pas sauter du tout.\n- Mettre en surbrillance le segment dans une couleur spécifique, en fonction de sa catégorie dans la chronologie de lecture."
+    },
+    {
+      "title": "Platformes",
+      "description": "Les applications ne sont disponibles que pour les appareils Android et il n'est pas prévu de supporter de nouvelles plateformes pour le moment"
+    },
+    {
+      "title": "Différence entre la méthode Root et la méthode non-Root",
+      "description": "#### Root :\nLa version Root de Vanced remplace de manière transparente l'application YouTube de base. Par conséquent, vous pouvez ouvrir des liens YouTube ou les appeler à travers l'Assistant Google tout en passant par l'application modifiée YouTube Vanced.\n\n#### Non-Root :\n- Si votre appareil est difficile à rooter ou que vous ne voulez pas rooter votre un appareil que vous utilisez quotidiennement, vous devriez sélectionner la version Non-Root.\n- Puisque le nom du paquet de la version Non-Root est différente de l'application YouTube officielle, la version Vanced de YouTube peut coexister avec cette-dernière. Veuillez noter qu'une application supplémentaire est nécessaire (Vanced microG) afin de vous connecter à votre compte YouTube/Google.\n- De plus, vous devez manuellement paramétrer Vanced comme application par défaut pour ouvrir les liens YouTube.\n- Cependant, la version Non-Root est bien plus simple à installer et à utiliser que la version Root c'est pourquoi nous vous recommandons de garder la variante Non-Root à moins que vous ayez vraiment besoin de remplacer l'application YouTube officielle sur votre appareil."
+    }
+  ]
+}

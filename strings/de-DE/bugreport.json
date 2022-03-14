@@ -1,0 +1,22 @@
+{
+  "data": [
+    {
+      "title": "Wie man Fehler meldet",
+      "description": "Fehler können Sie bei unserer [GitHub Fehlerverfolgung](https://github.com/YTVanced/Vanced) melden\n\n**Stelle Sie sicher, dass sie die README lesen und prüfen, ob Ihr Fehler bereits bekannt ist, bevor Sie Fehler melden!**",
+      "fields": [
+        {
+          "title": "Wann wird mein Fehler überprüft?",
+          "content": "Ihr Feedback wird so bald wie möglich überprüft."
+        },
+        {
+          "title": "Wie mache ich einen Logcat?",
+          "content": "Nicht-Root-Variante:\nFür Logcat-Outputs wird ein PC benötigt. Anleitung verfügbar in [Textform](https://github.com/YTVanced/Vanced#creating-a-logcat-using-the-android-debug-bridge-adb-on-your-pc) und in [Videoform](https://youtu.be/ICLpwgsJJP0).\n\nRoot-Variante:\nEs wird kein PC benötigt. Link zur [Anleitung](https://github.com/YTVanced/Vanced#creating-a-logcat-using-termux-on-your-rooted-android)."
+        },
+        {
+          "title": "Ihr Fehler ist in der Benutzeroberfläche?",
+          "content": "Für Fehler mit der Benutzeroberfläche müssen Sie zusätzliche Schritte befolgen.\n\nBitte installieren Sie [Developer Assistant](https://play.google.com/store/apps/details?id=com. ppsisle.developerassistant).\nDanach gehen Sie zu Vanced und reproduzieren den Fehler, dann öffnen Sie den Layout-Viewer durch Auslösen des Entwicklerassistenten.\n\nFolgen Sie nun diesen Schritten:\n1. Stellen Sie sicher, dass der Fehler auf dem Bildschirm angezeigt wird.\n2. Tippen Sie auf das Element, von dem Sie denken, dass es vom Fehler betroffen ist.\n3. Gehen Sie zu den Registerkarten `Element` und `Hierarchy` und machen sie Screenshots von der Ausgabe.\n4. Fügen Sie diese Screenshots in Ihr Problem ein."
+        }
+      ]
+    }
+  ]
+}

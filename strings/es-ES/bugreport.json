@@ -1,0 +1,22 @@
+{
+  "data": [
+    {
+      "title": "Cómo reportar errores",
+      "description": "Puedes reportar errores usando nuestro [Rastreador de problemas en GitHub](https://github.com/YTVanced/Vanced)\n\n**¡Asegúrate de leer el archivo README y verificar si tu error ya fue reportarlo antes de hacer un nuevo reporte!**",
+      "fields": [
+        {
+          "title": "¿Cuándo se revisará mi error?",
+          "content": "Tus comentarios serán revisados tan pronto como sea posible."
+        },
+        {
+          "title": "¿Cómo puedo hacer un registro?",
+          "content": "Para los usuarios que no son root:\nNecesitarás un PC para tomar las salidas de `logcat`. Aquí hay una [guía de texto](https://github.com/YTVanced/Vanced#creating-a-logcat-using-the-android-debug-bridge-adb-on-your-pc) y una [guía de vídeo](https://youtu.be/ICLpwgsJJP0).\n\nPara usuarios root:\nNo necesitas un PC para esto, por favor sigue [las instrucciones](https://github.com/YTVanced/Vanced#creating-a-logcat-using-termux-on-your-rooted-android)."
+        },
+        {
+          "title": "¿Su error está relacionado con la interfaz de usuario?",
+          "content": "Para errores relacionados con la interfaz de usuario, tendrás que tomar pasos adicionales.\n\nPor favor, instala y configura [Asistente de desarrollador](https://play.google.com/store/apps/details?id=com.appsisle.developerassistant).\nDespués de eso, ve a Vanced y reproduce el error, luego abre el visor de Layout activando el Asistente de Desarrolladores.\n\nAhora siga estos pasos:\n1. Asegúrese de que el error está mostrando en la pantalla.\n2. Toca el elemento que crees que está afectado por el error.\n3. Ve a las pestañas `Element` y `Hierarchy` y captura de pantalla las salidas.\n4. Incluye esas capturas de pantalla en tu problema."
+        }
+      ]
+    }
+  ]
+}

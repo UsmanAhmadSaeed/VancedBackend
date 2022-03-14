@@ -1,0 +1,20 @@
+{
+  "categories": [
+    {
+      "category": "Relatório de erros",
+      "json": "bugreport.json"
+    },
+    {
+      "category": "Perguntas Frequentes",
+      "json": "faq.json"
+    },
+    {
+      "category": "Características",
+      "json": "features.json"
+    },
+    {
+      "category": "Resolução de problemas",
+      "json": "troubleshooting.json"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "categories": [
+    {
+      "category": "تقرير عن الأخطاء",
+      "json": "bugreport.json"
+    },
+    {
+      "category": "الأسئلة الشائعة",
+      "json": "faq.json"
+    },
+    {
+      "category": "الميزات",
+      "json": "features.json"
+    },
+    {
+      "category": "استكشاف الأخطاء وإصلاحها",
+      "json": "troubleshooting.json"
+    }
+  ]
+}

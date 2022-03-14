@@ -1,0 +1,20 @@
+{
+  "categories": [
+    {
+      "category": "Informe d'error",
+      "json": "bugreport.json"
+    },
+    {
+      "category": "Preguntes Més Freqüents",
+      "json": "faq.json"
+    },
+    {
+      "category": "Característiques",
+      "json": "features.json"
+    },
+    {
+      "category": "Resolució de problemes",
+      "json": "troubleshooting.json"
+    }
+  ]
+}

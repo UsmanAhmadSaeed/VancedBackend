@@ -1,0 +1,22 @@
+{
+  "data": [
+    {
+      "title": "Jak zgłaszać błędy?",
+      "description": "Możesz zgłaszać błędy, tworząc problemy na naszym [Centrum zgłoszeń Github](https://github.com/YTVanced/Vanced#vanced-issue-center).\n\nSprawdź istniejące problemy, aby sprawdzić, czy błąd został już zgłoszony przed otwarciem zgłoszenia!",
+      "fields": [
+        {
+          "title": "Kiedy mój błąd zostanie zbadany?",
+          "content": "Deweloperzy poświęcają swój czas na tworzenie nowych funkcji i rozwiązywanie wielu problemów, a każdy z nich może trochę potrwać. \nMusisz tylko siedzieć i czekać. Twój problem zostanie sprawdzony tak szybko, jak to możliwe."
+        },
+        {
+          "title": "Jak utworzyć logcat?",
+          "content": "Dla innych użytkownikówbez roota:\nBędziesz potrzebował komputera, aby pobrać dane wyjściowe `logcat`. Oto [przewodnik tekstowy](https://github.com/YTVanced/Vanced#creating-a-logcat-using-the-android-debug-bridge-adb-on-your-pc) oraz [przewodnik wideo](https://youtu. e/ICLpwgsJP0).\n\nDla użytkowników z rootem:\nNie potrzebujesz do tego komputera, wykonaj [instrukcje](https://github.com/YTVanced/Vanced#creating-a-logcat-using-termux-on-your-rooted-android)."
+        },
+        {
+          "title": "Twój błąd jest związany z interfejsem?",
+          "content": "Dla błędów związanych z interfejsem użytkownika musisz wykonać dodatkowe kroki.\n\nZainstaluj i skonfiguruj [Developer Assistant](https://play.google.com/store/apps/details?id=com. ppsisle.developerassistant).\nNastępnie przejdź do Vanced i odtwórz błąd, potem otwórz podgląd Układu uruchamiając Developer Assistant.\n\nTeraz, wykonaj następujące kroki:\n1. Upewnij się, że błąd jest wyświetlany na ekranie.\n2. Dotknij elementu, który uważasz, że jest objęty błędem.\n3. Przejdź do zakładek `Element` i `Hierarchy` oraz zrób zrzut ekranu.\n4. Dołącz te zrzuty ekranu w swoim zgłoszeniu."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "categories": [
+    {
+      "category": "Báo lỗi",
+      "json": "bugreport.json"
+    },
+    {
+      "category": "Câu hỏi thường gặp",
+      "json": "faq.json"
+    },
+    {
+      "category": "Tính năng",
+      "json": "features.json"
+    },
+    {
+      "category": "Khắc phục sự cố",
+      "json": "troubleshooting.json"
+    }
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "data": [
+    {
+      "title": "YouTube Vanced çi ye?",
+      "description": "YouTube Vanced guhertoyek guhertoya YouTube-ê bi taybetmendiyên zêde ye ku ezmûna xwe ya YouTube çêtir bike!\n\nEv taybetmendî wiha ne:\n- Lêdaneke paşîn,\n- Wêne di wêne (PiP),\n- Tema reş (dostê OLED),\n- Rakirina reklaman (hewceyî bi bicîhkirinê ye),\n- Ji bo çareserkirina max (bihêle ku vîdyo ji dîmendera xwe bilindtir be, were lêdan),\n- ...û gelek ên din jî!\n\nJi bo agahiyên zêdetir, serdana <https://vancedapp.com>"
+    },
+    {
+      "title": "Bişkojka Dakêşanê li kûderê ye?",
+      "description": "Of course, Google won't allow a modified version of its own app to be on their store so don't look for it on the Google Play Store, those are just fake apps.\n\nVanced apps can be downloaded and installed using Vanced Manager which can be found on our official website: <https://vancedapp.com> but you can also grab it from [GitHub repo](https://github.com/YTVanced/VancedManager/releases/latest)."
+    },
+    {
+      "title": "YouTube bixweber rojane dike?",
+      "description": "Na, nabe.\n\nRêveberê Vanced dema ku yek heye wê teblîxekê ji we re bişîne.\n\nHer wiha hûn dikarin ji bo nûçeyên herî dawîn û nûvekirina agahdariyan tevlî [Serverê Discord](https://discord.gg/Vanced) bibin an jî [Telegram kanal](https://t.me/Vanced) bişopînin."
+    },
+    {
+      "title": "Vanced dikare vîdeoyan dakêşe?",
+      "description": "Vanced ti taybetmendiya daxistina vîdyoyê nahundirîne û wê qet nebe.\n\nGelek vîdyo hene ku li [welatên bijarte] (https://support.google.com/youtube/answer/6141269) bê pere dakêşin. Ji bo cîhana mayî, ji kerema xwe YouTube Premium bistînin.\n\nDîsa, Vanced WÊ TI CARÎ daxistinek vîdyoyê li ser sepan an jî tiştek mîna wê zêde bike.\n\nEv bûye sedema girtina gelek modên YouTube di berê de ji ber ku Google ji kesên ku naveroka mafên xwe ji platformê xwe dakêşin hez nake da ku jê nepirsin!!!"
+    },
+    {
+      "title": "Why don't the swipe gestures work?",
+      "description": "Heke şîroveyên te li jêr hene (cihê kevin) di mîhengên Vanced > Mîhengên dariştinê de nîşan bide, wê neçalak bike û ji nû ve dest pê bike. Eger ev yek bi ser nekeve, bi zorê vê kompûnê bisekinîne û daneyên wê paqij bike."
+    },
+    {
+      "title": "Sernav tune ne?",
+      "description": "Ev ne pirsgirêkek vanced an youTube ye. Di hemû vîdeoyan de sernav tune ne."
+    },
+    {
+      "title": "Hûn bexşînê distirên?",
+      "description": "EM BEXŞÎNAN QEBÛL NAKIN!\n\nHer cûre bexş di bin her rewşê de û her sîte, girêdan an jî postên ku ji bo bexşandinê bixwazin, bi tenê sexte ne.\n\nLê heke hûn dixwazin pêşdebirên Vanced piştgirî bikin, hûn dikarin Brave bi karanîna [vê link](https://brave.com/kev231) û AdGuard bi kar anîna [vê link](https://adguard.com/en/welcome.html?aid=31141)."
+    },
+    {
+      "title": "Tu çawa dîsîplîna lêkeran bixweber veşêrî?",
+      "description": "Tu dikarî di Mîhengên Veqetandî yên YouTube Vanced > Mîhengên > Gihîştin bikî. Heke mîheng venekin an nexebitin, biçin mîhengên gihîştina cîhaza xwe û amplifikatorê deng neçalak bikin, gihîştinê biguherînin, sernavê zindî."
+    },
+    {
+      "title": "Çima APKyên dabeşkirinê bi kar tînin?",
+      "description": "Ji ber:\n\n1. Sepan embar wê bikar tîne da ku Vanced jî bi kar tîne.\n2. Tenê zimanên ku hûn diyar dikin ji bo kêmkirina veberhênerên hilanînê saz dike.\n3. Yekane versiyona bingehîna AKP'ê heye ku cîhaza we jê re lazim e.\n\nBê guman, Rêvebirê Vanced an pêşdebiran dikarin wê pelê normal, yek APK veguherîne, lê em ji bo vê yekê pir tembel in. Divê hûn bi tiştên me re li hev bikin...\n\nLê xemgîn nebe, Vanced Manager ji bo we hemû karên dijwar dike ji ber vê yekê tenê li ser bişkojka 'Sazkirinê' pêlê bike."
+    },
+    {
+      "title": "Why does the color in the startup screen not match the theme? ",
+      "description": "Rengê rûbera ekrana destpêkê ji rengê sîstema Android tê girtin da ku li gor tema pergalê biguhere. Tu dikarî [Substratum](https://play.google.com/store/apps/details?id=projekt.substratum) an [Sazkerê Swift](https://play.google.com/store/apps/details?id=com.brit.swiftinstaller) an jî wekî vê appê bikar bînî da ku reng biguherînî."
+    },
+    {
+      "title": "Pelên sazkirinê ji nû ve dakêşim?",
+      "description": "Dosya dikarin ji ber sedemên cuda bên pûçkirin û piştî wê jî dikarin bibin sedema pirsgirêkan. Ji bo ku hûn ji vê yekê dûr bisekinin, hûn dikarin hilbijêrin ku wê dîsa dakêşin da ku sazkirina we bi rengek nerm derbas bibe."
+    },
+    {
+      "title": "Why doesn't the root version have Microphone permissions? ",
+      "description": "Eger Vanced-ê te nû bibe, ew dike."
+    },
+    {
+      "title": "ExoPlayer v1 çi ye?",
+      "description": "Ew versiyoneke kevntir a lêkera medyaya heyî ye ku youTube bi kar aniye. Dibe ku hûn di dema bikaranîna wê de performans û îstîkrarê çêtir bistînin."
+    },
+    {
+      "title": "Mîhengên veşartî çawa çalak bike?",
+      "description": "Di mîhengên Vanced de, li beşa 'About' 6-7 caran ji bo çalak bike. Ev tenê mîhengên codec yên vîdyoyê yên din çalak dike."
+    },
+    {
+      "title": "Meriv çawa dikare YouTube Vanced wekî sepana xwerû çêbike?",
+      "description": "As the title says, a lot of users have been asking many times how they can make YouTube Vanced as default for opening YouTube links from other apps(like browsers, messaging apps and any other app).\n\nFor root, you don't need to worry about because it is already set by default since official YouTube gets replaced with YouTube vanced.\n\nFor non-root, solutions has been divided between as OneUI, MIUI and the rest.  We can't provide solutions for every OS out there, and you may need to Google it by yourself.",
+      "fields": [
+        {
+          "title": "Bikarhênerên OneUI:",
+          "content": "1. Tap and hold down on YouTube or YouTube Vanced app icon from your app drawer.\n2. Tap **App info**.\n3. Find \"**Set as default**\" and tap it\n4. Tap \"**Open supported links**\" and choose \"**Open in this app**\"\n\nIn older versions of OneUI, the name of the options in the 4th step might be slightly different. You may need to tap \"**Go to supported URLs**\" and choose \"**In this app**\" option.\nIn the very older version of OneUI 💩, you may need to go to **Settings** > **Apps** > *[tap three dots at the right corner]* > **Default apps** > **Set as default**. After apps loaded Find YouTube Vanced or YouTube and follow the 4th step..."
+        },
+        {
+          "title": "Bikarhênerên MIUI:",
+          "content": "1. Open Settings\n2. Go to **Apps**,\n3. **Manage apps**,\n4. Then, tap the three dots at the right corner,\n5. **Default apps**,\n6. **Opening links**.\n7. Wait until all your apps gets listed…\n8. Find YouTube or YouTube Vanced and tap it.\n9. Tap \"**Open supported links**\" and choose \"**Open**\""
+        },
+        {
+          "title": "AOSP & UIyên xwerû yên din (OOS, ColorOS, EMUI, û hwd.):",
+          "content": "1. Open **Settings**\n2. Go to **Apps**\n3. Tap **Default apps**\n4. Find **YouTube** or **YouTube Vanced**\n5. Tap \"**Go to Supported URLs**\" and choose \"**Open in this app**\" option\n\nIf you're still troubling with this, you may need to search some \"how to\" articles/videos on [Google](https://www.google.com/search?q=%22android%22+how+to+open+youtube+links+with+youtube) or you can install a 3rd party app from [Play Store](https://play.google.com/store/search?q=open%20with) to save you from this hassle…"
+        }
+      ]
+    },
+    {
+      "title": "Why doesn't the root variant work with the microG core? ",
+      "description": "1. You need to have at least the [pico](https://github.com/opengapps/opengapps/wiki/Pico-Package) variant of GApps to run Vanced.\n\n2. You can’t run Vanced with microG Core without Google Play Services Framework which is available in all GApps packages and it's a required library.\n\n3. If you are worried about your privacy & don’t want to use GApps but still want to use watch YouTube without ads, then the [web version](https://youtube.com) is always available."
+    },
+    {
+      "title": "Why doesn't casting work?",
+      "description": "For users with v16.16.38 and all above non-root variants and root variants who are using microG based ROMs, there's a bug in upstream microG. Until that resolves, please wait for updates or roll back to v15 versions. If you use Google Play Services with root variants, you won't have any problems with casting."
+    },
+    {
+      "title": "What is APK Signing?",
+      "description": "You are reading this because you are not using Vanced Manager or you may have installed Vanced from an unofficial source.\nJust use Vanced Manager!\n\nYou can safely download Vanced Manager from:\n- [Official site](https://vancedapp.com)\n- [GitHub repository](https://github.com/YTVanced/VancedManager/releases/latest)"
+    },
+    {
+      "title": "Is YouTube Vanced on Play Store?",
+      "description": "NO!\nAgain, DO NOT install or even try to search for any fake apps named \"YouTube Vanced\" or similar on the Play Store or any app stores to install Vanced.\n\nWe only have [Vanced Guide](https://play.google.com/store/apps/details?id=com.vanced.faq), and it's the only official app published on Play Store.\n\nIf you find any other app with our icon and name, report it as impersonation and give it a bad review.\n\nOur apps can only be found at [official site](https://vancedapp.com)."
+    },
+    {
+      "title": "Why is Vanced not showing up in home screen or app drawer?",
+      "description": "You are reading this because you are not using Vanced Manager or you may have installed Vanced from an unofficial source.\nJust use Vanced Manager!\n\nYou can safely download Vanced Manager from:\n- Official site <https://vancedapp.com>\n- [GitHub repository](https://github.com/YTVanced/VancedManager/releases/latest)"
+    },
+    {
+      "title": "Why aren't videos playing?",
+      "description": "Try restarting the app. It might also because of your internet connection or your device."
+    },
+    {
+      "title": "Why am I having the 480p limit?",
+      "description": "Due to the COVID-19, Google is restricting data usage of several countries. This happens on the server and affects both Vanced and stock YouTube users.",
+      "fields": [
+        {
+          "title": "Workarounds:",
+          "content": "1. Connect to a VPN of a different region.\n2. Use the [web version](https://youtube.com)\n3. Since the 480p restriction is only for phones and not tablets, you can change the device model in YouTube Vanced to overcome the restriction.\n\n#### How to change the device model?\n1. Open YouTube Vanced.\n2. Go to Settings\n3. Tap the `Vanced Settings`\n4. Enable hidden settings:\n  - Scroll down and tap on the `About` section till you get a message saying `Hidden settings enabled`.\n5. Go to `Codec override`\n6. Set manufacturer to `Samsung` and model to `SM-T865`.\n7. Restart the app.\n\nAfter restarting, the 480p limit should be gone."
+        }
+      ]
+    },
+    {
+      "title": "How to hide the microG notification?",
+      "description": "To hide microG the notification,\n\n1. You can disable battery optimization for Vanced microG and reboot your device.\n\n2. If the above method doesn't work, disable microG notifications by holding on to the notification, toggle it off and tap Save.\n\n> Disabling app notifications can be done in different ways depending on the Android user interface. If you don't know how to disable it, try using Google for learning how to disable it."
+    },
+    {
+      "title": "Does 1440p look better on my 1080p screen?",
+      "description": "Yes, but only if the video ratio is something like 18:9, 21:9, ... You can enable `Stats for nerds` in Settings > General to confirm it.\n\nTo enable higher resolutions, go to Vanced settings > Video settings and turn on `Max resolution` then restart the app."
+    }
+  ]
+}
